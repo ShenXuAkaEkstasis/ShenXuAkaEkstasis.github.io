@@ -1,0 +1,58 @@
+## Research & Publications
+
+### Representing Entity Importance in AI Knowledge Systems:
+### A Dual-Signal Framework of Audience Evaluation and Structural Authority
+
+**Author:** Shen Xu  
+**Published:** arXiv Preprint (2026)  
+**Category:** Artificial Intelligence (cs.AI)
+
+
+Paper:
+
+https://arxiv.org/abs/2607.20925
+
+
+Code Repository:
+
+https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
+
+
+## Overview
+
+This research introduces a dual-signal framework for representing entity importance in AI knowledge systems.
+
+The framework proposes that entity importance should be understood through two complementary dimensions:
+
+### 1. Audience Evaluation Signal
+
+Measures how entities are perceived, referenced, and evaluated within human-facing information ecosystems.
+
+
+### 2. Structural Authority Signal
+
+Measures entity importance through relationships, connectivity, and structural position within knowledge networks.
+
+
+The research explores how these two dimensions provide different but complementary perspectives for understanding entity importance in AI-driven information environments.
+
+
+## Research Applications
+
+Potential applications include:
+
+- AI retrieval systems
+- Recommendation systems
+- Evidence selection
+- Knowledge-intensive AI reasoning
+- Entity understanding
+
+
+## Research Areas
+
+- AI Knowledge Systems
+- Knowledge Representation
+- Entity Importance Modeling
+- AI Search
+- Retrieval Systems
+- Knowledge Graph Analysis
