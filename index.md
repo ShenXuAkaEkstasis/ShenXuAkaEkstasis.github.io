@@ -147,11 +147,14 @@ My current work centers on a broader question:
 
 > **What changes when AI systems move from helping people find information to evaluating options, making selections, and participating in transactions on their behalf?**
 
-I explore this through **AI Visibility, Agentic Search, Decision Authority, Entity Ranking, AI Shopping, Agentic Commerce, and A2A markets**.
+I explore this question through AI Visibility, Agentic Search, Decision Authority, Entity Ranking, AI Shopping, and Agent-to-Agent Commerce.
+
+## Contact
+
+Official author email: [shanehsu1013@gmail.com](mailto:shanehsu1013@gmail.com)
 
 ---
 
-**Shen Xu / 徐慎**  
-Independent Researcher & Strategist  
-Agentic Commerce · AI Visibility · Agentic Search · Decision Authority  
+Shen Xu / 徐慎  
+Independent AI Visibility Strategist & Researcher  
 Shanghai, China
