@@ -228,13 +228,13 @@ Interactive tools, open frameworks, and experimental systems developed around AI
     </p>
 
     <div class="product-links">
-      <a href="YOUR_GEO_TEST_URL" target="_blank">
-        Take the Test →
-      </a>
-      <a href="YOUR_GEO_GITHUB_URL" target="_blank">
-        GitHub →
-      </a>
-    </div>
+  <a href="https://geo-quiz-vercel-v2.vercel.app/" target="_blank">
+    Take the Test →
+  </a>
+  <a href="https://github.com/ShenXuAkaEkstasis/geo-quiz-vercel-v2" target="_blank">
+    GitHub →
+  </a>
+</div>
   </div>
 
 </div>
