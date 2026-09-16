@@ -2,11 +2,120 @@
 
 **Independent Researcher & Strategist | Agentic Commerce · AI Visibility · Agentic Search · Decision Authority | Shanghai, China**
 
-I am **Shen Xu (徐慎)**, an independent researcher, strategist, author, and product builder based in Shanghai, China.
+I am **Shen Xu (徐慎)**, an independent researcher, strategist, author, entrepreneur, and product builder based in Shanghai, China.
 
-My current work focuses on how AI systems move from **information retrieval** to **evaluation, selection, and transaction**. I study this transition through **AI Visibility, Agentic Search Optimization (ASO), Decision Authority Economy (DAE), Entity Ranking, Agentic Commerce, and Agent-to-Agent (A2A) markets**.
+My current work focuses on how AI systems move from **information retrieval** to **evaluation, selection, action, and transaction**. I study this transition through **AI Visibility, Agentic Search Optimization (ASO), Decision Authority Economy (DAE), Entity Ranking, Agentic Commerce, and Agent-to-Agent (A2A) markets**.
 
-My work combines research, strategic consulting, and hands-on implementation. Alongside books and papers, I build **agentic-system prototypes, DeepSeek Harness plugins, AI skills, decision tools, and AI-native product experiments** to test how AI systems discover, compare, select, and act.
+My work combines research, strategic consulting, product development, and hands-on implementation. Alongside books and papers, I build **open-source frameworks, interactive assessment tools, agentic-system prototypes, DeepSeek Harness plugins, AI skills, decision tools, and AI-native product experiments**.
+
+<style>
+.product-section {
+  margin: 30px 0 42px;
+}
+
+.product-intro {
+  color: #57606a;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  gap: 18px;
+}
+
+.product-card {
+  border: 1px solid #d8dee4;
+  border-radius: 14px;
+  padding: 22px;
+  background: #ffffff;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px rgba(0,0,0,.08);
+}
+
+.product-label {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 9px;
+  border-radius: 20px;
+  background: #eef2ff;
+  color: #4338ca;
+  margin-bottom: 12px;
+}
+
+.product-card h3 {
+  margin: 0 0 10px;
+  font-size: 20px;
+}
+
+.product-card p {
+  color: #57606a;
+  line-height: 1.55;
+}
+
+.product-links {
+  margin-top: 18px;
+}
+
+.product-links a {
+  display: inline-block;
+  margin-right: 14px;
+  font-weight: 600;
+  text-decoration: none;
+}
+</style>
+
+<section class="product-section">
+
+<h2>Current Open-Source & Interactive Products</h2>
+
+<p class="product-intro">
+Current implementation work translating AI Visibility, GEO, Agentic Search, Decision Authority, and AI-mediated selection into usable frameworks and assessment products.
+</p>
+
+<div class="product-grid">
+
+  <div class="product-card">
+    <span class="product-label">OPEN SOURCE · ASO</span>
+    <h3>Agentic Search Optimization Framework</h3>
+    <p>
+      An open-source framework and evaluation tool for assessing how AI agents
+      discover, understand, verify, qualify, select, and act on brands,
+      products, companies, services, and other entities.
+    </p>
+    <div class="product-links">
+      <a href="https://aso-framework.vercel.app/" target="_blank">Live Demo →</a>
+      <a href="https://github.com/ShenXuAkaEkstasis/agentic-search-optimization" target="_blank">GitHub →</a>
+    </div>
+  </div>
+
+  <div class="product-card">
+    <span class="product-label">INTERACTIVE · GEO</span>
+    <h3>GEO Knowledge Test</h3>
+    <p>
+      A scenario-based interactive assessment for practical GEO, AI Visibility,
+      retrieval, citation, recommendation, query fan-out, and agent-ready
+      optimization knowledge.
+    </p>
+    <div class="product-links">
+      <a href="https://geo-quiz-vercel-v2.vercel.app/" target="_blank">Take the Test →</a>
+      <a href="https://github.com/ShenXuAkaEkstasis/geo-quiz-vercel-v2" target="_blank">GitHub →</a>
+    </div>
+  </div>
+
+</div>
+
+</section>
+
+My product work spans mobile applications, venture building, enterprise digital strategy, SaaS, AI-native systems, and agentic decision tools.
+
+**[View the full Products, Ventures & Agentic Systems timeline →](./Products-and-Agentic-Systems.md)**
 
 ## Core Research Direction
 
@@ -32,11 +141,11 @@ This connects AI Visibility and Agentic Search to the larger question of how dec
 
 ### AI Visibility
 
-I study how brands, companies, products, people, and other entities are represented, retrieved, evaluated, cited, and recommended by AI systems.
+I study how brands, companies, products, people, and other entities are represented, retrieved, evaluated, cited, recommended, and selected by AI systems.
 
 ### Agentic Search Optimization
 
-My work on **Agentic Search Optimization (ASO)** examines the shift from traditional search ranking toward AI systems that retrieve, evaluate, compare, and select entities on behalf of users.
+My work on **Agentic Search Optimization (ASO)** examines the shift from traditional search ranking toward AI systems that retrieve, understand, verify, compare, qualify, and select entities on behalf of users.
 
 ### Decision Authority Economy
 
@@ -52,9 +161,15 @@ My 2026 arXiv paper, **Representing Entity Importance in AI Knowledge Systems: A
 
 ## Selected Products, Prototypes & Agentic Systems
 
-My research is accompanied by practical implementation work across agentic commerce, AI shopping, decision systems, plugins, skills, and AI-native products.
+Selected implementation work includes:
 
-Selected work includes:
+- **Agentic Search Optimization Framework** — open-source ASO framework and interactive evaluation tool  
+  https://github.com/ShenXuAkaEkstasis/agentic-search-optimization  
+  https://aso-framework.vercel.app/
+
+- **GEO Knowledge Test** — scenario-based interactive GEO and AI Visibility assessment  
+  https://github.com/ShenXuAkaEkstasis/geo-quiz-vercel-v2  
+  https://geo-quiz-vercel-v2.vercel.app/
 
 - **A2A Decision Layer** — executable prototype exploring AI-to-AI decision and transaction structures  
   https://github.com/ShenXuAkaEkstasis/a2a-decision-layer
@@ -73,9 +188,12 @@ Selected work includes:
 - **DepthMotion AI** — AI-powered photo-to-cinematic-3D-motion product using depth estimation and parallax rendering  
   https://github.com/ShenXuAkaEkstasis/DepthMotion-AI
 
-A fuller product and implementation portfolio is available here:
+- **Entity Ranking Comparison** — implementation work connected to my research on entity importance and structural authority  
+  https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 
-**[Products & Agentic Systems](./Products-and-Agentic-Systems.md)**
+A fuller product, venture, and implementation history is available here:
+
+**[Products, Ventures & Agentic Systems](./Products-and-Agentic-Systems.md)**
 
 GitHub profile:
 
@@ -120,125 +238,11 @@ A Chinese-language book on AI Visibility and how organizations can improve their
 Amazon:  
 https://www.amazon.com/dp/B0H4XBSYQD
 
-<style>
-.product-section {
-  margin: 36px 0 42px;
-}
+### 《社群營銷在中國》
 
-.product-section h2 {
-  margin-bottom: 8px;
-}
+An earlier Chinese-language book examining social media, community marketing, digital platforms, and the evolution of user attention and commercial influence in the Chinese Internet environment.
 
-.product-intro {
-  color: #666;
-  margin-bottom: 20px;
-}
-
-.product-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
-  gap: 18px;
-}
-
-.product-card {
-  border: 1px solid #d8dee4;
-  border-radius: 14px;
-  padding: 22px;
-  background: #ffffff;
-  transition: transform .2s ease, box-shadow .2s ease;
-}
-
-.product-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 28px rgba(0,0,0,.08);
-}
-
-.product-label {
-  display: inline-block;
-  font-size: 12px;
-  font-weight: 600;
-  padding: 4px 9px;
-  border-radius: 20px;
-  background: #eef2ff;
-  color: #4338ca;
-  margin-bottom: 12px;
-}
-
-.product-card h3 {
-  margin: 0 0 10px;
-  font-size: 20px;
-}
-
-.product-card p {
-  color: #57606a;
-  line-height: 1.55;
-  min-height: 72px;
-}
-
-.product-links {
-  margin-top: 18px;
-}
-
-.product-links a {
-  display: inline-block;
-  margin-right: 14px;
-  font-weight: 600;
-  text-decoration: none;
-}
-</style>
-
-<section class="product-section">
-
-<h2>Products & Open Systems</h2>
-
-<p class="product-intro">
-Interactive tools, open frameworks, and experimental systems developed around AI Visibility, Agentic Search, and AI-mediated decision making.
-</p>
-
-<div class="product-grid">
-
-  <div class="product-card">
-    <span class="product-label">OPEN SOURCE · ASO</span>
-    <h3>Agentic Search Optimization Framework</h3>
-
-    <p>
-      An open-source framework and evaluation tool for measuring how AI agents
-      discover, understand, verify, qualify, select, and act on brands,
-      products, and entities.
-    </p>
-
-    <div class="product-links">
-      <a href="https://aso-framework.vercel.app/" target="_blank">
-        Live Demo →
-      </a>
-      <a href="https://github.com/ShenXuAkaEkstasis/agentic-search-optimization" target="_blank">
-        GitHub →
-      </a>
-    </div>
-  </div>
-
-  <div class="product-card">
-    <span class="product-label">INTERACTIVE · GEO</span>
-    <h3>GEO Knowledge Test</h3>
-
-    <p>
-      An interactive assessment designed to test practical GEO and AI Visibility
-      judgment through real-world optimization scenarios rather than simple
-      terminology recall.
-    </p>
-
-    <div class="product-links">
-  <a href="https://geo-quiz-vercel-v2.vercel.app/" target="_blank">
-    Take the Test →
-  </a>
-  <a href="https://github.com/ShenXuAkaEkstasis/geo-quiz-vercel-v2" target="_blank">
-    GitHub →
-  </a>
-</div>
-  </div>
-
-</div>
-</section>
+This earlier publishing work forms part of the longer intellectual path from **social distribution and platform influence** toward **AI Visibility, Agentic Search, Decision Authority, and Agentic Commerce**.
 
 ## Research Publication
 
@@ -255,26 +259,35 @@ https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 
 ## Professional Background
 
-I have more than 20 years of experience across digital strategy, technology, marketing, product development, and China market consulting.
+I have more than **20 years of experience** across digital strategy, technology, marketing, product development, venture building, SaaS, and China market consulting.
 
-Before working independently, I served as **Strategy Director at DigitasLBi**, part of Publicis Groupe.
+Selected experience includes:
 
-My current work combines AI research, product experimentation, and strategic consulting, with particular emphasis on **Agentic Commerce, AI Visibility, Agentic Search, AI-mediated decision systems, and China market strategy**.
+- **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; products included Banmake and Xiangge. Xiangge-related products exceeded **5 million cumulative downloads**, and the company received strategic investment from **Qihoo 360**.
+
+- **DigitasLBi Greater China / Publicis Groupe** — served as **Strategy Director**, connecting digital strategy, product thinking, consumer behavior, and enterprise transformation.
+
+- **TUNA** — founder and CEO; angel-backed entrepreneurial and commercialization experience across technology, digital products, and enterprise projects.
+
+- **Yueliu / 阅流** — growth and market work inside a venture-backed technology company.
+
+- **TSplus** — China market marketing and growth work for a French B2B software company, including localization, search visibility, content, product positioning, and market development.
+
+- **Technology-company advisory work** — business model, market strategy, growth, partnership, and ecosystem development for venture-backed technology businesses.
+
+My current work combines AI research, product experimentation, open-source development, and strategic consulting, with particular emphasis on **Agentic Commerce, AI Visibility, Agentic Search, AI-mediated decision systems, and China market strategy**.
 
 ## Current Research Question
 
 My current work centers on a broader question:
 
-> **What changes when AI systems move from helping people find information to evaluating options, making selections, and participating in transactions on their behalf?**
+> **What changes when AI systems move from helping people find information to evaluating options, making selections, taking actions, and participating in transactions on their behalf?**
 
-I explore this question through AI Visibility, Agentic Search, Decision Authority, Entity Ranking, AI Shopping, and Agent-to-Agent Commerce.
-
-## Contact
-
-Official author email: [shanehsu1013@gmail.com](mailto:shanehsu1013@gmail.com)
+I explore this through **AI Visibility, Agentic Search, Decision Authority, Entity Ranking, AI Shopping, Agentic Commerce, and A2A markets**.
 
 ---
 
-Shen Xu / 徐慎  
-Independent AI Visibility Strategist & Researcher  
+**Shen Xu / 徐慎**  
+Independent Researcher & Strategist  
+Agentic Commerce · AI Visibility · Agentic Search · Decision Authority  
 Shanghai, China
