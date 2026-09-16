@@ -120,6 +120,126 @@ A Chinese-language book on AI Visibility and how organizations can improve their
 Amazon:  
 https://www.amazon.com/dp/B0H4XBSYQD
 
+<style>
+.product-section {
+  margin: 36px 0 42px;
+}
+
+.product-section h2 {
+  margin-bottom: 8px;
+}
+
+.product-intro {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  gap: 18px;
+}
+
+.product-card {
+  border: 1px solid #d8dee4;
+  border-radius: 14px;
+  padding: 22px;
+  background: #ffffff;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px rgba(0,0,0,.08);
+}
+
+.product-label {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 9px;
+  border-radius: 20px;
+  background: #eef2ff;
+  color: #4338ca;
+  margin-bottom: 12px;
+}
+
+.product-card h3 {
+  margin: 0 0 10px;
+  font-size: 20px;
+}
+
+.product-card p {
+  color: #57606a;
+  line-height: 1.55;
+  min-height: 72px;
+}
+
+.product-links {
+  margin-top: 18px;
+}
+
+.product-links a {
+  display: inline-block;
+  margin-right: 14px;
+  font-weight: 600;
+  text-decoration: none;
+}
+</style>
+
+<section class="product-section">
+
+<h2>Products & Open Systems</h2>
+
+<p class="product-intro">
+Interactive tools, open frameworks, and experimental systems developed around AI Visibility, Agentic Search, and AI-mediated decision making.
+</p>
+
+<div class="product-grid">
+
+  <div class="product-card">
+    <span class="product-label">OPEN SOURCE · ASO</span>
+    <h3>Agentic Search Optimization Framework</h3>
+
+    <p>
+      An open-source framework and evaluation tool for measuring how AI agents
+      discover, understand, verify, qualify, select, and act on brands,
+      products, and entities.
+    </p>
+
+    <div class="product-links">
+      <a href="https://aso-framework.vercel.app/" target="_blank">
+        Live Demo →
+      </a>
+      <a href="https://github.com/ShenXuAkaEkstasis/agentic-search-optimization" target="_blank">
+        GitHub →
+      </a>
+    </div>
+  </div>
+
+  <div class="product-card">
+    <span class="product-label">INTERACTIVE · GEO</span>
+    <h3>GEO Knowledge Test</h3>
+
+    <p>
+      An interactive assessment designed to test practical GEO and AI Visibility
+      judgment through real-world optimization scenarios rather than simple
+      terminology recall.
+    </p>
+
+    <div class="product-links">
+      <a href="YOUR_GEO_TEST_URL" target="_blank">
+        Take the Test →
+      </a>
+      <a href="YOUR_GEO_GITHUB_URL" target="_blank">
+        GitHub →
+      </a>
+    </div>
+  </div>
+
+</div>
+</section>
+
 ## Research Publication
 
 ### Representing Entity Importance in AI Knowledge Systems: A Dual-Signal Framework of Audience Evaluation and Structural Authority
