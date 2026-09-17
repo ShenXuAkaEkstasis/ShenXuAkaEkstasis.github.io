@@ -1,10 +1,12 @@
 # Shen Xu 徐慎
 
-**Independent Researcher & Strategist | Agentic Commerce · AI Visibility · Agentic Search · Decision Authority | Shanghai, China**
+**Independent Researcher & Strategist | Agentic Commerce · A2A Markets · Agentic Search · AI Visibility · Decision Authority | Shanghai, China**
 
 I am **Shen Xu (徐慎)**, an independent researcher, strategist, author, entrepreneur, and product builder based in Shanghai, China.
 
-My current work focuses on how AI systems move from **information retrieval** to **evaluation, selection, action, and transaction**. I study this transition through **AI Visibility, Agentic Search Optimization (ASO), Decision Authority Economy (DAE), Entity Ranking, Agentic Commerce, and Agent-to-Agent (A2A) markets**.
+My current work increasingly centers on **Agentic Commerce and Agent-to-Agent (A2A) markets**: how commerce changes when AI systems move beyond information retrieval and begin participating directly in **evaluation, selection, action, coordination, and transaction**.
+
+I study this transition through **Agentic Commerce, A2A Market Architecture, Agentic Search Optimization (ASO), Decision Authority Economy (DAE), AI Visibility, and Entity Ranking**.
 
 My work combines research, strategic consulting, product development, and hands-on implementation. Alongside books and papers, I build **open-source frameworks, interactive assessment tools, agentic-system prototypes, DeepSeek Harness plugins, AI skills, decision tools, and AI-native product experiments**.
 
@@ -66,6 +68,7 @@ My work combines research, strategic consulting, product development, and hands-
 .product-links a {
   display: inline-block;
   margin-right: 14px;
+  margin-bottom: 6px;
   font-weight: 600;
   text-decoration: none;
 }
@@ -73,24 +76,40 @@ My work combines research, strategic consulting, product development, and hands-
 
 <section class="product-section">
 
-<h2>Current Open-Source & Interactive Products</h2>
+<h2>Current Open-Source Research & Interactive Products</h2>
 
 <p class="product-intro">
-Current implementation work translating AI Visibility, GEO, Agentic Search, Decision Authority, and AI-mediated selection into usable frameworks and assessment products.
+Current implementation work translating Agentic Commerce, A2A markets, Agentic Search, Decision Authority, AI Visibility, and AI-mediated selection into public research frameworks and usable assessment tools.
 </p>
 
 <div class="product-grid">
 
   <div class="product-card">
+    <span class="product-label">RESEARCH · A2A</span>
+    <h3>A2A Market Architecture</h3>
+    <p>
+      An open research framework for understanding how markets, merchants,
+      platforms, channels, and commercial infrastructure change when AI agents
+      become active participants in discovery, evaluation, coordination,
+      negotiation, and transactions.
+    </p>
+    <div class="product-links">
+      <a href="https://github.com/ShenXuAkaEkstasis/a2a-market-architecture" target="_blank">Research Framework →</a>
+    </div>
+  </div>
+
+  <div class="product-card">
     <span class="product-label">OPEN SOURCE · ASO</span>
     <h3>Agentic Search Optimization Framework</h3>
     <p>
-      An open-source framework and evaluation tool for assessing how AI agents
-      discover, understand, verify, qualify, select, and act on brands,
-      products, companies, services, and other entities.
+      An open-source research framework and evaluation tool for assessing how
+      AI agents discover, understand, verify, qualify, select, and act on
+      brands, products, companies, services, and other entities.
     </p>
     <div class="product-links">
-      <a href="https://aso-framework.vercel.app/" target="_blank">Live Demo →</a>
+      <a href="./ASO-Framework.md">Framework →</a>
+      <a href="https://huggingface.co/spaces/ShenXu1013/agentic-search-optimization" target="_blank">Hugging Face →</a>
+      <a href="https://aso-framework.vercel.app/" target="_blank">Web Demo →</a>
       <a href="https://github.com/ShenXuAkaEkstasis/agentic-search-optimization" target="_blank">GitHub →</a>
     </div>
   </div>
@@ -121,37 +140,85 @@ My product work spans mobile applications, venture building, enterprise digital 
 
 ### Agentic Commerce and A2A Markets
 
-My current research increasingly centers on **Agentic Commerce** and **Agent-to-Agent (A2A) markets**: environments in which AI agents participate directly in discovery, evaluation, negotiation, selection, and transaction processes.
+My primary research direction is increasingly **Agentic Commerce** and **Agent-to-Agent (A2A) markets**: environments in which AI agents participate directly in discovery, evaluation, coordination, negotiation, selection, and transaction processes.
+
+The term **A2A** here refers broadly to **agent-to-agent economic interaction** and is not limited to any single A2A communication protocol.
 
 I am particularly interested in the emerging infrastructure connecting:
 
 - buyer agents
 - merchant and brand agents
 - machine-readable product and company data
+- agent-accessible commercial interfaces
 - skills, plugins, and agent tools
 - payment and transaction infrastructure
 - trust, reputation, and third-party evidence
-- identity, permissions, and policy constraints
+- identity, authorization, permissions, and policy constraints
 
 The broader progression I use is:
+
+**AI Visibility → Agentic Search → Agent Readiness → Agentic Commerce → A2A Markets**
+
+Another way to express the commercial progression is:
 
 **Visibility → Eligibility → Selection → Transaction**
 
 This connects AI Visibility and Agentic Search to the larger question of how decision authority and economic activity change when AI systems participate directly in market decisions.
 
+### A2A Market Architecture
+
+**A2A Market Architecture** is an open research framework for studying how markets, merchants, platforms, channels, and commercial infrastructure change when AI agents become active market participants.
+
+The framework examines six initial areas:
+
+- market participants
+- agent-accessible interfaces
+- discovery and distribution
+- machine-readable commercial state
+- transactions
+- market economics
+
+The central research question is:
+
+> **What happens to commerce when AI agents are no longer only interfaces or assistants, but become active participants in markets?**
+
+Repository:
+
+https://github.com/ShenXuAkaEkstasis/a2a-market-architecture
+
+### Agentic Search Optimization
+
+My work on **Agentic Search Optimization (ASO)** examines the shift from traditional search ranking toward AI systems that retrieve, understand, verify, compare, qualify, select, and potentially act on entities on behalf of users.
+
+I use the following six-stage framework:
+
+**Discover → Understand → Verify → Qualify → Select → Act**
+
+The current research-preview implementation contains **24 assessment criteria** across these six stages.
+
+Framework page:
+
+[Agentic Search Optimization (ASO) Framework](./ASO-Framework.md)
+
+Live research preview:
+
+https://huggingface.co/spaces/ShenXu1013/agentic-search-optimization
+
+GitHub:
+
+https://github.com/ShenXuAkaEkstasis/agentic-search-optimization
+
 ### AI Visibility
 
 I study how brands, companies, products, people, and other entities are represented, retrieved, evaluated, cited, recommended, and selected by AI systems.
 
-### Agentic Search Optimization
-
-My work on **Agentic Search Optimization (ASO)** examines the shift from traditional search ranking toward AI systems that retrieve, understand, verify, compare, qualify, and select entities on behalf of users.
+AI Visibility is an important starting layer, but visibility alone does not guarantee that an entity will qualify for a task, be selected over alternatives, or become usable by an AI agent.
 
 ### Decision Authority Economy
 
 **Decision Authority Economy (DAE)** is a framework for understanding what happens when people delegate parts of search, comparison, recommendation, selection, and execution to AI systems.
 
-The framework focuses on how the redistribution of decision authority changes influence, competition, attribution, and market power.
+The framework focuses on how the redistribution of decision authority changes influence, competition, attribution, market power, and the relationship between consumers, brands, platforms, and AI systems.
 
 ### Entity Ranking
 
@@ -163,7 +230,12 @@ My 2026 arXiv paper, **Representing Entity Importance in AI Knowledge Systems: A
 
 Selected implementation work includes:
 
+- **A2A Market Architecture** — open research framework examining how markets and commercial infrastructure change when AI agents become active market participants  
+  https://github.com/ShenXuAkaEkstasis/a2a-market-architecture
+
 - **Agentic Search Optimization Framework** — open-source ASO framework and interactive evaluation tool  
+  https://shenxuakaekstasis.github.io/ASO-Framework.html  
+  https://huggingface.co/spaces/ShenXu1013/agentic-search-optimization  
   https://github.com/ShenXuAkaEkstasis/agentic-search-optimization  
   https://aso-framework.vercel.app/
 
@@ -183,7 +255,7 @@ Selected implementation work includes:
 - **DSH AI SaaS Deal Finder** — DeepSeek Harness plugin for identifying legitimate lower-cost AI/SaaS purchase options while checking region, eligibility, payment, tax, and service-policy constraints  
   https://github.com/ShenXuAkaEkstasis/dsh-ai-saas-deal-finder
 
-- **Tencent SkillHub portfolio** — nine published AI skills covering shopping, SaaS deal discovery, business evaluation, fundraising, reputation strategy, creative generation, and AI-native utility workflows
+- **Tencent SkillHub portfolio** — published AI skills covering shopping, SaaS deal discovery, business evaluation, fundraising, reputation strategy, creative generation, and AI-native utility workflows
 
 - **DepthMotion AI** — AI-powered photo-to-cinematic-3D-motion product using depth estimation and parallax rendering  
   https://github.com/ShenXuAkaEkstasis/DepthMotion-AI
@@ -199,6 +271,10 @@ GitHub profile:
 
 https://github.com/ShenXuAkaEkstasis
 
+Hugging Face:
+
+https://huggingface.co/ShenXu1013
+
 ## Selected Books
 
 ### From Search to Agentic Commerce
@@ -208,6 +284,13 @@ https://github.com/ShenXuAkaEkstasis
 Eliva Press, 2026.
 
 The book examines the transition from search-driven discovery toward AI-mediated selection and, eventually, agent-mediated transactions.
+
+It connects four themes:
+
+- attribution collapse
+- agentic search
+- decision authority
+- A2A markets and agentic commerce
 
 Amazon:  
 https://www.amazon.com/dp/9999353231
@@ -238,11 +321,13 @@ A Chinese-language book on AI Visibility and how organizations can improve their
 Amazon:  
 https://www.amazon.com/dp/B0H4XBSYQD
 
-### 《社群營銷在中國》
+### 《社群營銷在中國：抖音和微信們編織的中國互聯網》
+
+**Social Community Marketing in China: How Douyin and WeChat Shape China's Internet**
 
 An earlier Chinese-language book examining social media, community marketing, digital platforms, and the evolution of user attention and commercial influence in the Chinese Internet environment.
 
-This earlier publishing work forms part of the longer intellectual path from **social distribution and platform influence** toward **AI Visibility, Agentic Search, Decision Authority, and Agentic Commerce**.
+This earlier publishing work forms part of the longer intellectual path from **social distribution and platform influence** toward **AI Visibility, Agentic Search, Decision Authority, Agentic Commerce, and A2A markets**.
 
 ## Research Publication
 
@@ -261,6 +346,8 @@ https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 
 I have more than **20 years of experience** across digital strategy, technology, marketing, product development, venture building, SaaS, and China market consulting.
 
+Across agency, internet, technology, software, consulting, and entrepreneurial work, I have worked with or supported **300+ brands and organizations**.
+
 Selected experience includes:
 
 - **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; products included Banmake and Xiangge. Xiangge-related products exceeded **5 million cumulative downloads**, and the company received strategic investment from **Qihoo 360**.
@@ -275,19 +362,23 @@ Selected experience includes:
 
 - **Technology-company advisory work** — business model, market strategy, growth, partnership, and ecosystem development for venture-backed technology businesses.
 
-My current work combines AI research, product experimentation, open-source development, and strategic consulting, with particular emphasis on **Agentic Commerce, AI Visibility, Agentic Search, AI-mediated decision systems, and China market strategy**.
+My current work combines AI research, product experimentation, open-source development, and strategic consulting, with particular emphasis on **Agentic Commerce, A2A markets, Agentic Search, AI Visibility, AI-mediated decision systems, and China market strategy**.
 
 ## Current Research Question
 
 My current work centers on a broader question:
 
-> **What changes when AI systems move from helping people find information to evaluating options, making selections, taking actions, and participating in transactions on their behalf?**
+> **What changes when AI systems move from helping people find information to evaluating options, making selections, taking actions, coordinating with other systems, and participating in transactions on their behalf?**
 
-I explore this through **AI Visibility, Agentic Search, Decision Authority, Entity Ranking, AI Shopping, Agentic Commerce, and A2A markets**.
+I explore this through **Agentic Commerce, A2A Market Architecture, Agentic Search Optimization, Decision Authority, AI Visibility, Entity Ranking, and AI-mediated commerce**.
+
+The underlying transition can be summarized as:
+
+**AI Visibility → Agentic Search → Agent Readiness → Agentic Commerce → A2A Markets**
 
 ---
 
 **Shen Xu / 徐慎**  
 Independent Researcher & Strategist  
-Agentic Commerce · AI Visibility · Agentic Search · Decision Authority  
+Agentic Commerce · A2A Markets · Agentic Search · AI Visibility · Decision Authority  
 Shanghai, China
