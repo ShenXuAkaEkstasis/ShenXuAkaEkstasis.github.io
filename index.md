@@ -111,6 +111,7 @@ Current implementation work translating Agentic Commerce, A2A markets, Agentic S
       <a href="https://huggingface.co/spaces/ShenXu1013/agentic-search-optimization" target="_blank">Hugging Face →</a>
       <a href="https://aso-framework.vercel.app/" target="_blank">Web Demo →</a>
       <a href="https://github.com/ShenXuAkaEkstasis/agentic-search-optimization" target="_blank">GitHub →</a>
+      <a href="https://www.producthunt.com/products/aso-framework-agentic-search?launch=aso-framework-agentic-search" target="_blank">Product Hunt →</a>
     </div>
   </div>
 
@@ -208,6 +209,10 @@ GitHub:
 
 https://github.com/ShenXuAkaEkstasis/agentic-search-optimization
 
+Product Hunt:
+
+https://www.producthunt.com/products/aso-framework-agentic-search?launch=aso-framework-agentic-search
+
 ### AI Visibility
 
 I study how brands, companies, products, people, and other entities are represented, retrieved, evaluated, cited, recommended, and selected by AI systems.
@@ -237,7 +242,8 @@ Selected implementation work includes:
   https://shenxuakaekstasis.github.io/ASO-Framework.html  
   https://huggingface.co/spaces/ShenXu1013/agentic-search-optimization  
   https://github.com/ShenXuAkaEkstasis/agentic-search-optimization  
-  https://aso-framework.vercel.app/
+  https://aso-framework.vercel.app/  
+  https://www.producthunt.com/products/aso-framework-agentic-search?launch=aso-framework-agentic-search
 
 - **GEO Knowledge Test** — scenario-based interactive GEO and AI Visibility assessment  
   https://github.com/ShenXuAkaEkstasis/geo-quiz-vercel-v2  
