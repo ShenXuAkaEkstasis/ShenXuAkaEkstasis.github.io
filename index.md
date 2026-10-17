@@ -348,6 +348,10 @@ https://arxiv.org/abs/2607.20925
 Code repository:  
 https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 
+## Historical Media & Speaking Evidence
+
+A permanent list of early technology-media interviews, public speaking appearances, startup community events, and contemporary coverage is maintained in [Historical Media & Event Evidence](./Historical-Media-and-Event-Evidence.md).
+
 ## Professional Background
 
 I have more than **20 years of experience** across digital strategy, technology, marketing, product development, venture building, SaaS, and China market consulting.
