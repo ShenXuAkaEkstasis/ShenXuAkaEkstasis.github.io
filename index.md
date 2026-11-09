@@ -352,6 +352,10 @@ https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 
 A permanent list of early technology-media interviews, public speaking appearances, startup community events, and contemporary coverage is maintained in [Historical Media & Event Evidence](./Historical-Media-and-Event-Evidence.md).
 
+## Mentorship & Professional Recognition
+
+- **ADPList Fellow Mentor (2026–present)** — recognized on ADPList as a Fellow Mentor, offering mentorship in business strategy, China market entry and growth, digital marketing, and AI search visibility. [Verified mentor profile](https://adplist.org/mentors/shen-xu-mvj9d1l8).
+
 ## Professional Background
 
 I have more than **20 years of experience** across digital strategy, technology, marketing, product development, venture building, SaaS, and China market consulting.
