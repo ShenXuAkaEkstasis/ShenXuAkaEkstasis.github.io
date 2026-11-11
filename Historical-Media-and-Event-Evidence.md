@@ -11,6 +11,15 @@ Last updated: 2026-11-10.
 | 2011 | NetEase Technology (网易科技) | “斑马客：通过二维码打通线上线下”; mobile startup/product ecosystem coverage | https://www.163.com/tech/article/6QTM0CPB000938EN.html | Original URL recovered from prior research; user confirms link opens; reconfirm precise quote or personal attribution before using |
 | 2019 archival publication | Alibaba Cloud Developer Community (阿里云开发者社区) | “移动开发者生态实录” material references “斑马客的COO徐慎” and his comments on commercialization | https://developer.aliyun.com/article/298120 | Previously checked against article; user confirms link opens |
 
+## Author Columns on Major Cloud Developer Communities
+
+These are **self-authored publication profiles**, separate from third-party media coverage, interviews, syndication and independent endorsements. One canonical profile URL per platform.
+
+| Platform | Author profile | Scope | URL | Verification |
+|---|---|---|---|---|
+| Alibaba Cloud Developer Community (阿里云开发者社区) | 徐慎 (Shen Xu) | Author page covering AI Visibility, Agentic Search Optimization, Decision Authority and A2A Commerce; the profile displays 25 published articles at the time of review. | https://developer.aliyun.com/profile/wbmctbb4lwe4q | Verified 2026-11-10 against the author page and its listed original articles. |
+| Tencent Cloud Developer Community (腾讯云开发者社区) | 徐慎Ekstasis (Shen Xu) | Author profile and publication archive on Agentic Commerce, A2A Markets, AI Visibility, AI-mediated decision authority and related strategy topics. | https://cloud.tencent.com/developer/user/12686874/articles | Verified 2026-11-10. Distinct from earlier Tencent Cloud account 12594957 used for a single July article. |
+
 ## Recent Media Coverage & Client-Project Mentions (2026)
 
 The following references are recorded **once per original URL**. A publisher-hosted article or repost is evidence of a public mention, **not** proof that a brand or publisher independently verified every project claim. Pages whose full text could not be retrieved are explicitly marked for re-verification.
