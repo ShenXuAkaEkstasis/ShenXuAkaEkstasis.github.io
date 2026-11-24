@@ -27,6 +27,8 @@ My work combines research, strategic consulting, product development, and hands-
 - [Thinkers360](https://www.thinkers360.com/tl/profiles/view/33319)
 - [ADPList](https://adplist.org/mentors/shen-xu-mvj9d1l8)
 - [X](https://x.com/shanehsu1013)
+- [Medium — Shen Xu（徐慎）](https://medium.com/@shanehsu1013)
+- [Substack — personal publication](https://shanehsu1013.substack.com/)
 - [AI Visibility & Agentic Commerce profile](https://agent-ready-ai-visibility.ek-zea.chatgpt.site/)
 - [AbeBooks author profile](https://www.abebooks.com/author/b0h3k97x11/shen-xu)
 
@@ -255,6 +257,45 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         },
         {
           "@id": "https://developer.cloud.tencent.com/article/2700964"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/decision-authority-graph-dag-mapping-how-authority-shapes-ai-mediated-decisions-d0592ef2f71c"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/reddits-dilemma-staying-open-means-a-slow-bleed-closing-off-could-mean-losing-the-future-9e3c6e46f218"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/when-llms-become-the-operating-system-for-work-how-ai-agents-are-reshaping-workflows-5eb87b47feb5"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/beyond-tokens-and-compute-could-time-become-the-key-metric-for-ai-product-value-8aa1804e2b71"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/hark-is-not-the-end-state-decision-authority-is-the-bigger-story-5c260574dfb0"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/when-ai-chooses-for-us-price-trust-and-the-filtered-world-28505c2cac40"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/machine-trust-in-agentic-commerce-a-7-layer-framework-for-trust-between-ai-agents-9c76766a3261"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/what-makes-a-merchant-agent-ready-an-8-layer-framework-for-agentic-commerce-8d16370c8232"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/from-intent-to-decision-authority-how-much-should-an-ai-agent-be-allowed-to-decide-for-you-c6374398ca4d"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/from-selection-to-commitment-how-decision-authority-enables-agentic-commerce-9c5ab0445cba"
+        },
+        {
+          "@id": "https://medium.com/@shanehsu1013/agentic-search-optimization-aso-from-agentic-search-to-ai-selection-c2421562be54"
+        },
+        {
+          "@id": "https://shanehsu1013.substack.com/#blog"
+        },
+        {
+          "@id": "https://shanehsu1013.substack.com/p/geo-has-a-trust-problem-not-a-visibility"
         }
       ]
     },
@@ -291,7 +332,8 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "https://www.abebooks.com/author/b0h3k97x11/shen-xu",
         "https://developer.aliyun.com/profile/wbmctbb4lwe4q",
         "https://cloud.tencent.com/developer/user/12686874/articles",
-        "https://developer.cloud.tencent.com/user/12594957"
+        "https://developer.cloud.tencent.com/user/12594957",
+        "https://medium.com/@shanehsu1013"
       ],
       "award": [
         "2026 Global Recognition Award — Innovation and Research",
@@ -312,6 +354,13 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "AI-mediated Decision Systems",
         "Agent Authorization",
         "Enterprise Procurement"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "X",
+          "value": "@shanehsu1013"
+        }
       ]
     },
     {
@@ -1043,6 +1092,137 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "author": {
         "@id": "https://shenxuakaekstasis.github.io/#person"
       }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/decision-authority-graph-dag-mapping-how-authority-shapes-ai-mediated-decisions-d0592ef2f71c",
+      "url": "https://medium.com/@shanehsu1013/decision-authority-graph-dag-mapping-how-authority-shapes-ai-mediated-decisions-d0592ef2f71c",
+      "headline": "Decision Authority Graph (DAG): Mapping How Authority Shapes AI-Mediated Decisions",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/reddits-dilemma-staying-open-means-a-slow-bleed-closing-off-could-mean-losing-the-future-9e3c6e46f218",
+      "url": "https://medium.com/@shanehsu1013/reddits-dilemma-staying-open-means-a-slow-bleed-closing-off-could-mean-losing-the-future-9e3c6e46f218",
+      "headline": "Reddit’s Dilemma: Staying Open Means a Slow Bleed. Closing Off Could Mean Losing the Future.",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/when-llms-become-the-operating-system-for-work-how-ai-agents-are-reshaping-workflows-5eb87b47feb5",
+      "url": "https://medium.com/@shanehsu1013/when-llms-become-the-operating-system-for-work-how-ai-agents-are-reshaping-workflows-5eb87b47feb5",
+      "headline": "When LLMs Become the Operating System for Work: How AI Agents Are Reshaping Workflows",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/beyond-tokens-and-compute-could-time-become-the-key-metric-for-ai-product-value-8aa1804e2b71",
+      "url": "https://medium.com/@shanehsu1013/beyond-tokens-and-compute-could-time-become-the-key-metric-for-ai-product-value-8aa1804e2b71",
+      "headline": "Beyond Tokens and Compute: Could Time Become the Key Metric for AI Product Value?",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/hark-is-not-the-end-state-decision-authority-is-the-bigger-story-5c260574dfb0",
+      "url": "https://medium.com/@shanehsu1013/hark-is-not-the-end-state-decision-authority-is-the-bigger-story-5c260574dfb0",
+      "headline": "Hark Is Not the End State. Decision Authority Is the Bigger Story.",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/when-ai-chooses-for-us-price-trust-and-the-filtered-world-28505c2cac40",
+      "url": "https://medium.com/@shanehsu1013/when-ai-chooses-for-us-price-trust-and-the-filtered-world-28505c2cac40",
+      "headline": "When AI Chooses for Us: Price, Trust, and the Filtered World",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/machine-trust-in-agentic-commerce-a-7-layer-framework-for-trust-between-ai-agents-9c76766a3261",
+      "url": "https://medium.com/@shanehsu1013/machine-trust-in-agentic-commerce-a-7-layer-framework-for-trust-between-ai-agents-9c76766a3261",
+      "headline": "Machine Trust in Agentic Commerce: A 7-Layer Framework for Trust Between AI Agents",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/what-makes-a-merchant-agent-ready-an-8-layer-framework-for-agentic-commerce-8d16370c8232",
+      "url": "https://medium.com/@shanehsu1013/what-makes-a-merchant-agent-ready-an-8-layer-framework-for-agentic-commerce-8d16370c8232",
+      "headline": "What Makes a Merchant Agent-Ready? An 8-Layer Framework for Agentic Commerce",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/from-intent-to-decision-authority-how-much-should-an-ai-agent-be-allowed-to-decide-for-you-c6374398ca4d",
+      "url": "https://medium.com/@shanehsu1013/from-intent-to-decision-authority-how-much-should-an-ai-agent-be-allowed-to-decide-for-you-c6374398ca4d",
+      "headline": "From Intent to Decision Authority: How Much Should an AI Agent Be Allowed to Decide for You?",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/from-selection-to-commitment-how-decision-authority-enables-agentic-commerce-9c5ab0445cba",
+      "url": "https://medium.com/@shanehsu1013/from-selection-to-commitment-how-decision-authority-enables-agentic-commerce-9c5ab0445cba",
+      "headline": "From Selection to Commitment: How Decision Authority Enables Agentic Commerce",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@shanehsu1013/agentic-search-optimization-aso-from-agentic-search-to-ai-selection-c2421562be54",
+      "url": "https://medium.com/@shanehsu1013/agentic-search-optimization-aso-from-agentic-search-to-ai-selection-c2421562be54",
+      "headline": "Agentic Search Optimization (ASO): From Agentic Search to AI Selection",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Blog",
+      "@id": "https://shanehsu1013.substack.com/#blog",
+      "url": "https://shanehsu1013.substack.com",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://shanehsu1013.substack.com/p/geo-has-a-trust-problem-not-a-visibility",
+      "url": "https://shanehsu1013.substack.com/p/geo-has-a-trust-problem-not-a-visibility",
+      "headline": "GEO Has a Trust Problem, Not a Visibility Problem",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "isPartOf": {
+        "@id": "https://shanehsu1013.substack.com/#blog"
+      }
     }
   ]
 }
@@ -1465,6 +1645,28 @@ https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 - [决策权威图谱（Decision Authority Graph，DAG）——从AI可见性到AI决策权：一个正在形成的新研究方向](https://developer.aliyun.com/article/1744286)
 
 [Full Alibaba Cloud author archive](https://developer.aliyun.com/profile/wbmctbb4lwe4q).
+
+### Medium — Shen Xu（徐慎）
+
+- [Decision Authority Graph (DAG): Mapping How Authority Shapes AI-Mediated Decisions](https://medium.com/@shanehsu1013/decision-authority-graph-dag-mapping-how-authority-shapes-ai-mediated-decisions-d0592ef2f71c)
+- [Reddit’s Dilemma: Staying Open Means a Slow Bleed. Closing Off Could Mean Losing the Future.](https://medium.com/@shanehsu1013/reddits-dilemma-staying-open-means-a-slow-bleed-closing-off-could-mean-losing-the-future-9e3c6e46f218)
+- [When LLMs Become the Operating System for Work: How AI Agents Are Reshaping Workflows](https://medium.com/@shanehsu1013/when-llms-become-the-operating-system-for-work-how-ai-agents-are-reshaping-workflows-5eb87b47feb5)
+- [Beyond Tokens and Compute: Could Time Become the Key Metric for AI Product Value?](https://medium.com/@shanehsu1013/beyond-tokens-and-compute-could-time-become-the-key-metric-for-ai-product-value-8aa1804e2b71)
+- [Hark Is Not the End State. Decision Authority Is the Bigger Story.](https://medium.com/@shanehsu1013/hark-is-not-the-end-state-decision-authority-is-the-bigger-story-5c260574dfb0)
+- [When AI Chooses for Us: Price, Trust, and the Filtered World](https://medium.com/@shanehsu1013/when-ai-chooses-for-us-price-trust-and-the-filtered-world-28505c2cac40)
+- [Machine Trust in Agentic Commerce: A 7-Layer Framework for Trust Between AI Agents](https://medium.com/@shanehsu1013/machine-trust-in-agentic-commerce-a-7-layer-framework-for-trust-between-ai-agents-9c76766a3261)
+- [What Makes a Merchant Agent-Ready? An 8-Layer Framework for Agentic Commerce](https://medium.com/@shanehsu1013/what-makes-a-merchant-agent-ready-an-8-layer-framework-for-agentic-commerce-8d16370c8232)
+- [From Intent to Decision Authority: How Much Should an AI Agent Be Allowed to Decide for You?](https://medium.com/@shanehsu1013/from-intent-to-decision-authority-how-much-should-an-ai-agent-be-allowed-to-decide-for-you-c6374398ca4d)
+- [From Selection to Commitment: How Decision Authority Enables Agentic Commerce](https://medium.com/@shanehsu1013/from-selection-to-commitment-how-decision-authority-enables-agentic-commerce-9c5ab0445cba)
+- [Agentic Search Optimization (ASO): From Agentic Search to AI Selection](https://medium.com/@shanehsu1013/agentic-search-optimization-aso-from-agentic-search-to-ai-selection-c2421562be54)
+
+[Medium author archive](https://medium.com/@shanehsu1013). The author profile links back to this GitHub repository, and the ASO article links to my X account (@shanehsu1013).
+
+### Substack — shanehsu1013
+
+- [GEO Has a Trust Problem, Not a Visibility Problem](https://shanehsu1013.substack.com/p/geo-has-a-trust-problem-not-a-visibility) — [author’s LinkedIn announcement](https://www.linkedin.com/posts/shanehsu_geo-has-a-trust-problem-not-a-visibility-activity-7501104472681676800-L20z).
+
+[Substack publication](https://shanehsu1013.substack.com/).
 
 ### English-language research and technical articles
 
