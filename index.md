@@ -12,13 +12,15 @@ My work combines research, strategic consulting, product development, and hands-
 
 ## Identity & Public Profiles
 
-**Shen Xu (徐慎)** is also known as **Shane Hsu**, **Ekstasis**, **Ekstasis Zea** (pen name), **EK**, and **徐慎Ekstasis** (Tencent Cloud author name). **ShenXuAkaEkstasis** is my GitHub username. These names refer to the same individual; my primary professional and research name is Shen Xu (徐慎).
+**Shen Xu (徐慎)** is also known as **Shane Hsu**, **Ekstasis**, **Ekstasis Zea** (pen name), **EK**, **徐慎EK**, **徐慎 (Ekstasis)**, and **徐慎Ekstasis** (Tencent Cloud author name). **ShenXuAkaEkstasis** is my GitHub username. These names refer to the same individual; my primary professional and research name is Shen Xu (徐慎).
 
 - [GitHub](https://github.com/ShenXuAkaEkstasis)
 - [LinkedIn](https://www.linkedin.com/in/shanehsu/)
 - [ORCID](https://orcid.org/0009-0007-6471-2620)
 - [Google Scholar](https://scholar.google.com/citations?user=h4IUafgAAAAJ)
 - [Tencent Cloud Developer Community — 徐慎Ekstasis](https://developer.cloud.tencent.com/user/12686874)
+- [Alibaba Cloud Developer Community — 徐慎](https://developer.aliyun.com/profile/wbmctbb4lwe4q)
+- [Tencent Cloud — main article archive](https://cloud.tencent.com/developer/user/12686874/articles)
 - [DEV Community](https://dev.to/shen_xu)
 - [Hugging Face](https://huggingface.co/ShenXu1013)
 - [Thinkers360](https://www.thinkers360.com/tl/profiles/view/33319)
@@ -141,6 +143,36 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         },
         {
           "@id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918"
+        },
+        {
+          "@id": "https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526"
+        },
+        {
+          "@id": "https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag"
+        },
+        {
+          "@id": "https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381"
+        },
+        {
+          "@id": "https://leadersperception.com/how-shen-xu-adapted-catt-china-as-marketing-demands-changed/"
+        },
+        {
+          "@id": "https://www.aicerts.ai/news/authorized-training-partner/ai-training-decision-making-shen-xu-ai-systems/"
+        },
+        {
+          "@id": "https://news.marketersmedia.com/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks/89196390"
+        },
+        {
+          "@id": "https://news.yesky.com/hotnews/295/382795.shtml"
+        },
+        {
+          "@id": "https://www.yicaifoundation.org.cn/front/article/180"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/298120"
+        },
+        {
+          "@id": "https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b"
         }
       ]
     },
@@ -155,7 +187,9 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "Ekstasis Zea",
         "EK",
         "徐慎Ekstasis",
-        "ShenXuAkaEkstasis"
+        "ShenXuAkaEkstasis",
+        "徐慎EK",
+        "徐慎 (Ekstasis)"
       ],
       "url": "https://shenxuakaekstasis.github.io/",
       "description": "Independent researcher, strategist and author focused on agentic commerce, agentic search, decision authority and AI visibility.",
@@ -172,7 +206,9 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "https://adplist.org/mentors/shen-xu-mvj9d1l8",
         "https://x.com/shanehsu1013",
         "https://agent-ready-ai-visibility.ek-zea.chatgpt.site/",
-        "https://www.abebooks.com/author/b0h3k97x11/shen-xu"
+        "https://www.abebooks.com/author/b0h3k97x11/shen-xu",
+        "https://developer.aliyun.com/profile/wbmctbb4lwe4q",
+        "https://cloud.tencent.com/developer/user/12686874/articles"
       ],
       "award": [
         "2026 Global Recognition Award — Innovation and Research",
@@ -188,7 +224,11 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "Generative Engine Optimization",
         "Entity Ranking",
         "China Market Entry",
-        "Go-to-Market Strategy"
+        "Go-to-Market Strategy",
+        "Portable Agent Memory",
+        "AI-mediated Decision Systems",
+        "Agent Authorization",
+        "Enterprise Procurement"
       ]
     },
     {
@@ -513,6 +553,143 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "author": {
         "@id": "https://shenxuakaekstasis.github.io/#person"
       }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526",
+      "url": "https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526",
+      "headline": "Decision Authority in SAP AI Agents: A Procurement Perspective",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "SAP Community"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag",
+      "url": "https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag",
+      "headline": "How AI Agents Evaluate Information Beyond Retrieval and RAG",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "AWS Builder Center"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381",
+      "url": "https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381",
+      "headline": "Beyond Chat History: Designing Portable Memory and Decision Boundaries for Enterprise AI Agents",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Databricks Community"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://leadersperception.com/how-shen-xu-adapted-catt-china-as-marketing-demands-changed/",
+      "url": "https://leadersperception.com/how-shen-xu-adapted-catt-china-as-marketing-demands-changed/",
+      "headline": "How Shen Xu Adapted CATT China as Marketing Demands Changed",
+      "about": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Leaders Perception"
+      },
+      "datePublished": "2026-11-05"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.aicerts.ai/news/authorized-training-partner/ai-training-decision-making-shen-xu-ai-systems/",
+      "url": "https://www.aicerts.ai/news/authorized-training-partner/ai-training-decision-making-shen-xu-ai-systems/",
+      "headline": "Shen Xu’s Global Recognition Award Highlights Why AI Training Is Essential for the Future of Intelligent Decision-Making",
+      "about": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "AI CERTs"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://news.marketersmedia.com/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks/89196390",
+      "url": "https://news.marketersmedia.com/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks/89196390",
+      "headline": "Shen Xu Receives a 2026 Global Recognition Award for Advancing AI-Mediated Decision Systems and Economic Coordination Frameworks",
+      "about": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "MarketersMEDIA"
+      },
+      "datePublished": "2026-06-29"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://news.yesky.com/hotnews/295/382795.shtml",
+      "url": "https://news.yesky.com/hotnews/295/382795.shtml",
+      "headline": "中国市场AI营销研究案例：印尼零食品牌Merubali",
+      "about": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Yesky"
+      },
+      "datePublished": "2026-11-10"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.yicaifoundation.org.cn/front/article/180",
+      "url": "https://www.yicaifoundation.org.cn/front/article/180",
+      "headline": "公益沙龙：微信如何助力公益宣筹",
+      "about": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Yicai Foundation"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/298120",
+      "url": "https://developer.aliyun.com/article/298120",
+      "headline": "移动开发者生态实录",
+      "about": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Alibaba Cloud Developer Community"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b",
+      "url": "https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b",
+      "headline": "Unity Catalog functions kept AI agents from acting on stale memory",
+      "author": {
+        "@type": "Person",
+        "name": "gnakan",
+        "url": "https://community.databricks.com/t5/user/viewprofilepage/user-id/175114"
+      },
+      "citation": {
+        "@id": "https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381"
+      }
     }
   ]
 }
@@ -789,6 +966,13 @@ Hugging Face:
 
 https://huggingface.co/ShenXu1013
 
+Additional public research implementations and ecosystem resources:
+
+- [Agentic Commerce Market Architecture — public framework](https://shenxuakaekstasis.github.io/a2a-market-architecture/) — unified DAE, ASO and A2A research and the original September 2026 research agenda.
+- [AI Shopping Assistant Skill](https://github.com/ShenXuAkaEkstasis/ai-shopping-assistant-skill), [AI Lianhuanhua Skill](https://github.com/ShenXuAkaEkstasis/ai-lianhuanhua-skill), and [Startup Fundraising BP Skill](https://github.com/ShenXuAkaEkstasis/startup-fundraising-bp-skill) — public source projects.
+- [DeepSeek Harness — AI Shopping Assistant plugin listing](https://dsh.pub/en/plugins/dsh-ai-shopping-assistant) — publicly listed implementation.
+- [Technical contributions and ecosystem evidence](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture/blob/main/technical-contributions.md).
+
 ## Selected Books
 
 ### From Search to Agentic Commerce
@@ -898,9 +1082,35 @@ https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 - [Portable AI Agent Memory: What Should Move When Users Switch Agents?](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900)
 - [Agent-to-Agent Commerce: From Decision Authority to Machine Transactions](https://www.linkedin.com/pulse/agent-to-agent-commerce-from-decision-authority-machine-shen-xu-%E5%BE%90%E6%85%8E-zxmkc)
 
+
+- **SAP Community:** [Decision Authority in SAP AI Agents: A Procurement Perspective](https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526)
+- **AWS Builder Center:** [How AI Agents Evaluate Information Beyond Retrieval and RAG](https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag)
+- **Databricks Community:** [Beyond Chat History: Designing Portable Memory and Decision Boundaries for Enterprise AI Agents](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381)
+
+[Full research and technical publication index](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture/blob/main/publications.md) · [Alibaba Cloud author archive](https://developer.aliyun.com/profile/wbmctbb4lwe4q).
+
+Community articles are self-authored technical publications, not peer-reviewed validation or corporate endorsement.
+
+## Independent Technical Follow-up
+
+**October 2026 — Databricks community experiment.** Following my article on portable agent memory and decision boundaries, Databricks MVP gnakan [responded publicly](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/173115#M1825) and published an [independent Unity Catalog experiment](https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b) examining stale-memory actions and current authorization checks. The follow-up addresses a specific distinction between historical memory and present execution authority; it does not validate the complete DAE, ASO or A2A frameworks or imply corporate endorsement. [Research lineage and scope](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture/blob/main/independent-research.md).
+
+## Media Interviews & Industry Coverage
+
+- **November 5, 2026 | Leaders Perception** — [How Shen Xu Adapted CATT China as Marketing Demands Changed](https://leadersperception.com/how-shen-xu-adapted-catt-china-as-marketing-demands-changed/). Published interview about CATT China, client trust, changing marketing demands and business adaptation.
+- **AI CERTs** — [Shen Xu’s Global Recognition Award Highlights Why AI Training Is Essential for the Future of Intelligent Decision-Making](https://www.aicerts.ai/news/authorized-training-partner/ai-training-decision-making-shen-xu-ai-systems/). Industry coverage in its training-partner news section; the publisher discloses possible AI-assisted content. Not an independent research review or endorsement.
+- **June 29, 2026 | MarketersMEDIA** — [Global Recognition Award announcement](https://news.marketersmedia.com/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks/89196390). Press release distribution, also syndicated by Business Insider Markets; not an independent editorial interview.
+- **November 10, 2026 | Yesky** — [中国市场AI营销研究案例：印尼零食品牌Merubali](https://news.yesky.com/hotnews/295/382795.shtml). Syndicated promotional coverage of China-market research, labeled advertising by the publisher.
+
 ## Historical Media & Speaking Evidence
 
 A permanent list of early technology-media interviews, public speaking appearances, startup community events, and contemporary coverage is maintained in [Historical Media & Event Evidence](./Historical-Media-and-Event-Evidence.md).
+
+Selected historical identity evidence:
+
+- [Yicai Foundation — public event featuring 徐慎EK](https://www.yicaifoundation.org.cn/front/article/180).
+- [Alibaba Cloud Developer Community — historical mobile developer ecosystem material referencing 徐慎](https://developer.aliyun.com/article/298120).
+- [Growth Hacker — published recommendation attributed to 徐慎 (Ekstasis)](https://jobrest.gitbooks.io/growthhacking/content/tui_jian_yu.html).
 
 ## Third-Party Project Mentions
 
@@ -908,7 +1118,7 @@ A permanent list of early technology-media interviews, public speaking appearanc
 
 ## Mentorship & Professional Recognition
 
-- **2026 Global Recognition Award — Innovation and Research** — [Official winner profile](https://globalrecognitionawards.org/winners/2026/shen-xu-recognized-with-a-2026-global-recognition-award/) · [Business Insider coverage](https://markets.businessinsider.com/news/stocks/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks-1036283725).
+- **2026 Global Recognition Award — Innovation and Research** — [Official winner profile](https://globalrecognitionawards.org/winners/2026/shen-xu-recognized-with-a-2026-global-recognition-award/) · [Business Insider Markets syndicated announcement](https://markets.businessinsider.com/news/stocks/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks-1036283725).
 - **Bronze Globee Award for Artificial Intelligence (2026)** — Artificial Intelligence Thought Leadership of the Year, for *AI Decision Mediation for Agent-Driven Systems*. [Official winners list](https://globeeawards.com/2026-winners-artificial-intelligence-awards/).
 - **Judge — 2027 IMPACT Awards** — [professional profile](https://www.linkedin.com/in/shanehsu/).
 - **IEEE Member / IEEE Technology and Engineering Management Society (TEMS).**
@@ -922,6 +1132,8 @@ I have more than **20 years of experience** across digital strategy, technology,
 Across agency, internet, technology, software, consulting, and entrepreneurial work, I have worked with or supported **300+ brands and organizations**.
 
 Selected experience includes:
+
+- **CATT China** — founder and Business Strategy Director, as identified in the November 2026 Leaders Perception interview; China market entry, growth and strategic marketing consulting.
 
 - **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; products included Banmake and Xiangge. Xiangge-related products exceeded **5 million cumulative downloads**, and the company received strategic investment from **Qihoo 360**.
 
