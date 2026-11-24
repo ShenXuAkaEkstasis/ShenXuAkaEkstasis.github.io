@@ -296,8 +296,14 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         },
         {
           "@id": "https://shanehsu1013.substack.com/p/geo-has-a-trust-problem-not-a-visibility"
+        },
+        {
+          "@id": "https://www.jnexpert.com/article/detail?id=34640"
         }
-      ]
+      ],
+      "hasPart": {
+        "@id": "https://shenxuakaekstasis.github.io/#case-studies"
+      }
     },
     {
       "@type": "Person",
@@ -774,14 +780,30 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "@id": "https://news.yesky.com/hotnews/295/382795.shtml",
       "url": "https://news.yesky.com/hotnews/295/382795.shtml",
       "headline": "中国市场AI营销研究案例：印尼零食品牌Merubali",
-      "about": {
-        "@id": "https://shenxuakaekstasis.github.io/#person"
-      },
+      "about": [
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#person"
+        },
+        {
+          "@type": "Organization",
+          "name": "Merubali"
+        },
+        {
+          "@type": "Event",
+          "name": "Think Rice Think Thailand: The Taste of Thai Cuisine",
+          "location": {
+            "@type": "Place",
+            "name": "Guangzhou, China"
+          }
+        }
+      ],
       "publisher": {
         "@type": "Organization",
         "name": "Yesky"
       },
-      "datePublished": "2026-11-10"
+      "datePublished": "2026-11-10",
+      "inLanguage": "zh-CN",
+      "description": "Syndicated promotional article (labeled advertising) naming Shen Xu (徐慎) in connection with Merubali China-market research and local implementation support for the Thai rice promotion in Guangzhou."
     },
     {
       "@type": "Article",
@@ -1223,6 +1245,49 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "isPartOf": {
         "@id": "https://shanehsu1013.substack.com/#blog"
       }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.jnexpert.com/article/detail?id=34640",
+      "url": "https://www.jnexpert.com/article/detail?id=34640",
+      "headline": "BlocsME 布局中国市场：连接中国企业与中东建筑项目机会",
+      "datePublished": "2026-08-27",
+      "inLanguage": "zh-CN",
+      "publisher": {
+        "@type": "Organization",
+        "name": "锦囊专家"
+      },
+      "description": "Chinese-language coverage identifying 徐慎 as a China GTM specialist involved in BlocsME's market entry, brand visibility and localization; the page credits GeekPark as its source.",
+      "about": [
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#person"
+        },
+        {
+          "@type": "Organization",
+          "name": "BlocsME"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://shenxuakaekstasis.github.io/#case-studies",
+      "name": "Selected China GTM & Marketing Case Studies",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://news.yesky.com/hotnews/295/382795.shtml"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.jnexpert.com/article/detail?id=34640"
+          }
+        }
+      ]
     }
   ]
 }
@@ -1693,6 +1758,12 @@ Community articles are self-authored technical publications, not peer-reviewed v
 - **AI CERTs** — [Shen Xu’s Global Recognition Award Highlights Why AI Training Is Essential for the Future of Intelligent Decision-Making](https://www.aicerts.ai/news/authorized-training-partner/ai-training-decision-making-shen-xu-ai-systems/). Industry coverage in its training-partner news section; the publisher discloses possible AI-assisted content. Not an independent research review or endorsement.
 - **June 29, 2026 | MarketersMEDIA** — [Global Recognition Award announcement](https://news.marketersmedia.com/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks/89196390). Press release distribution, also syndicated by Business Insider Markets; not an independent editorial interview.
 - **November 10, 2026 | Yesky** — [中国市场AI营销研究案例：印尼零食品牌Merubali](https://news.yesky.com/hotnews/295/382795.shtml). Syndicated promotional coverage of China-market research, labeled advertising by the publisher.
+
+## Selected China GTM & Marketing Case Studies
+
+- **Merubali (Indonesia) — AI-assisted China market research | November 10, 2026.** Consumer perception, digital market research and brand communication analysis using Expert-Led AI Orchestration (ELAO). The Chinese-language article explicitly names Shen Xu (徐慎). [中国市场AI营销研究案例：印尼零食品牌Merubali — Yesky / 天极网](https://news.yesky.com/hotnews/295/382795.shtml). Syndicated promotional coverage, labeled advertising by the publisher.
+- **BlocsME (Dubai, UAE) — China market entry and brand visibility | August 27, 2026.** Chinese localization, market-entry planning and AI visibility for a construction project intelligence platform. The article names 徐慎 as a China GTM specialist involved in the work. [BlocsME 布局中国市场：连接中国企业与中东建筑项目机会 — 锦囊专家](https://www.jnexpert.com/article/detail?id=34640) (source credited as GeekPark / 极客公园).
+- **Think Rice Think Thailand: The Taste of Thai Cuisine — Guangzhou | July 2026.** Local implementation support for the Thai Department of Foreign Trade's promotional event. Shen Xu's participation is explicitly mentioned in the [November 10 Yesky article](https://news.yesky.com/hotnews/295/382795.shtml); this is not a separate event report.
 
 ## Historical Media & Speaking Evidence
 
