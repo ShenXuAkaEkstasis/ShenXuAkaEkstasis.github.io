@@ -2,13 +2,11 @@
 
 **Former DigitasLBi Greater China Strategy Director | 6 Fundraising Projects | RMB 260M+ Tech Marketing & Operations Director | Growth Advisor to RMB 5B+ Soonicorn (Series D) | 5M+ App Downloads in One Year | China GTM | AI Visibility & A2A Commerce**
 
-I am **Shen Xu (徐慎)**, a business and growth strategist, former Greater China Strategy Director at DigitasLBi (Publicis Groupe), entrepreneur, product builder, independent researcher, and author based in Shanghai, China.
+I am **Shen Xu (徐慎)**, a **business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder** based in Shanghai, China. I formerly served as Greater China Strategy Director at DigitasLBi (Publicis Groupe).
 
-My current work increasingly centers on **Agentic Commerce and Agent-to-Agent (A2A) markets**: how commerce changes when AI systems move beyond information retrieval and begin participating directly in **evaluation, selection, action, coordination, and transaction**.
+My professional background spans six fundraising projects, marketing and operations leadership in a RMB 260M+ technology business, growth advisory experience with a RMB 5B+ Series D soonicorn through its subsidiary, and consumer app growth exceeding 5 million downloads in one year.
 
-I study this transition through **Agentic Commerce, A2A Market Architecture, Agentic Search Optimization (ASO), Decision Authority Economy (DAE), AI Visibility, and Entity Ranking**.
-
-My work combines research, strategic consulting, product development, and hands-on implementation. Alongside books and papers, I build **open-source frameworks, interactive assessment tools, agentic-system prototypes, DeepSeek Harness plugins, AI skills, decision tools, and AI-native product experiments**.
+My core practice is **business strategy, China go-to-market (GTM), growth, venture building, and technology commercialization**. AI visibility and Agent-to-Agent (A2A) commerce are current strategic specializations, supported by my published work, open-source frameworks, assessment tools, agentic-system prototypes, and product experiments.
 
 ## Venture & Fundraising Experience
 
@@ -55,7 +53,7 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "@type": "ProfilePage",
       "@id": "https://shenxuakaekstasis.github.io/#profilepage",
       "url": "https://shenxuakaekstasis.github.io/",
-      "name": "Shen Xu (徐慎) — Business & Growth Strategist, Former DigitasLBi Greater China Strategy Director",
+      "name": "Shen Xu (徐慎) — Business Strategy & Growth Strategist | China GTM | AI Visibility & A2A Commerce",
       "mainEntity": {
         "@id": "https://shenxuakaekstasis.github.io/#person"
       },
@@ -325,7 +323,8 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
           "@id": "https://shenxuakaekstasis.github.io/#venture-fundraising-experience"
         }
       ],
-      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority."
+      "description": "Business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Core practice: business strategy, China GTM, growth, venture building and technology commercialization. Current strategic specializations include AI visibility, agentic commerce, A2A markets, agentic search and decision authority, supported by published work and product development.",
+      "headline": "Former DigitasLBi Greater China Strategy Director | 6 Fundraising Projects | RMB 260M+ Tech Marketing & Operations Director | Growth Advisor to RMB 5B+ Soonicorn (Series D) | 5M+ App Downloads in One Year | China GTM | AI Visibility & A2A Commerce"
     },
     {
       "@type": "Person",
@@ -343,8 +342,8 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "徐慎 (Ekstasis)"
       ],
       "url": "https://shenxuakaekstasis.github.io/",
-      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority.",
-      "jobTitle": "Business & Growth Strategist; Independent Researcher",
+      "description": "Business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Core practice: business strategy, China GTM, growth, venture building and technology commercialization. Current strategic specializations include AI visibility, agentic commerce, A2A markets, agentic search and decision authority, supported by published work and product development.",
+      "jobTitle": "Business Strategy & Growth Strategist",
       "sameAs": [
         "https://github.com/ShenXuAkaEkstasis",
         "https://www.linkedin.com/in/shanehsu/",
@@ -368,27 +367,27 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "Bronze Globee Award for Artificial Intelligence Thought Leadership of the Year (2026)"
       ],
       "knowsAbout": [
-        "Agentic Commerce",
-        "Agent-to-Agent Commerce",
-        "Agentic Search Optimization",
-        "Decision Authority Economy",
-        "Decision Authority Graph",
-        "AI Visibility",
-        "Generative Engine Optimization",
-        "Entity Ranking",
+        "Business Strategy",
+        "Growth Strategy",
         "China Market Entry",
         "Go-to-Market Strategy",
-        "Portable Agent Memory",
-        "AI-mediated Decision Systems",
-        "Agent Authorization",
-        "Enterprise Procurement",
-        "Business Strategy",
         "Startup Fundraising",
         "Venture Building",
         "Marketing and Operations",
-        "Growth Strategy",
         "Mobile App Growth",
-        "Product Commercialization"
+        "Product Commercialization",
+        "AI Visibility",
+        "Agent-to-Agent Commerce",
+        "Agentic Commerce",
+        "Agentic Search Optimization",
+        "Decision Authority Economy",
+        "Decision Authority Graph",
+        "Generative Engine Optimization",
+        "Entity Ranking",
+        "Portable Agent Memory",
+        "AI-mediated Decision Systems",
+        "Agent Authorization",
+        "Enterprise Procurement"
       ],
       "identifier": [
         {
@@ -1483,6 +1482,94 @@ My product work spans mobile applications, venture building, enterprise digital 
 
 **[View the full Products, Ventures & Agentic Systems timeline →](./Products-and-Agentic-Systems.md)**
 
+## Professional Background
+
+I have more than **20 years of experience** across digital strategy, technology, marketing, product development, venture building, SaaS, and China market consulting.
+
+Across agency, internet, technology, software, consulting, and entrepreneurial work, I have worked with or supported **300+ brands and organizations**.
+
+Selected experience includes:
+
+- **CATT China** — founder and Business Strategy Director, as identified in the November 2026 Leaders Perception interview; China market entry, growth and strategic marketing consulting.
+
+- **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; both Banmake (斑马客) and Xiangge (相格) secured investment. Banmake received investment from an undisclosed Singapore-based investment firm. Xiangge received strategic investment from **Qihoo 360 (奇虎360)** and exceeded **5 million downloads within one year**.
+
+- **DigitasLBi Greater China / Publicis Groupe** — served as **Strategy Director**, connecting digital strategy, product thinking, consumer behavior, and enterprise transformation.
+
+- **TUNA** — founder and CEO; angel-backed entrepreneurial and commercialization experience across technology, digital products, and enterprise projects.
+
+- **Yueliu Network / 阅流网络** — Marketing & Operations Director at a Series B+ venture-backed technology company.
+
+- **TSplus** — China market marketing and growth work for a French B2B software company, including localization, search visibility, content, product positioning, and market development.
+
+- **Technology-company advisory work** — business model, market strategy, growth, partnership, and ecosystem development for venture-backed technology businesses, including external marketing and communications advisory work for ET STAR (梯之星), a subsidiary of Series D-backed Zhejiang Xin Zailing Technology Co., Ltd.
+
+My current work combines business strategy, China market entry, growth advisory, product development, and AI-enabled commercialization, with specialist work in **AI Visibility, Agentic Search, Agentic Commerce, A2A markets, and AI-mediated decision systems**.
+
+## Selected China GTM & Marketing Case Studies
+
+- **Selfie Duo Camera (双镜相机) — China market entry and promotion planning | August 25, 2026.** China-market strategy and promotion planning for the iOS dual-camera application. The previously archived article text identifies Shen Xu (徐慎) in this role. [Selfie Duo Camera双镜相机入华，海外应用寻找中国市场增长机会 — Sina News / 新浪新闻](https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml). Published media reference; not presented as an independent client endorsement or a measurement of campaign performance.
+- **Merubali (Indonesia) — AI-assisted China market research | November 10, 2026.** Consumer perception, digital market research and brand communication analysis using Expert-Led AI Orchestration (ELAO). The Chinese-language article explicitly names Shen Xu (徐慎). [中国市场AI营销研究案例：印尼零食品牌Merubali — Yesky / 天极网](https://news.yesky.com/hotnews/295/382795.shtml). Syndicated promotional coverage, labeled advertising by the publisher.
+- **BlocsME (Dubai, UAE) — China market entry and brand visibility | August 27, 2026.** Chinese localization, market-entry planning and AI visibility for a construction project intelligence platform. The article names 徐慎 as a China GTM specialist involved in the work. [BlocsME 布局中国市场：连接中国企业与中东建筑项目机会 — 锦囊专家](https://www.jnexpert.com/article/detail?id=34640) (source credited as GeekPark / 极客公园).
+- **Think Rice Think Thailand: The Taste of Thai Cuisine — Guangzhou | July 2026.** Local implementation support for the Thai Department of Foreign Trade's promotional event. Shen Xu's participation is explicitly mentioned in the November 10 Yesky article linked in the preceding Merubali case; this is not a separate event report.
+
+## Selected Products, Prototypes & Agentic Systems
+
+Selected implementation work includes:
+
+- **A2A Market Architecture** — open research framework examining how markets and commercial infrastructure change when AI agents become active market participants  
+  https://github.com/ShenXuAkaEkstasis/a2a-market-architecture
+
+- **Agentic Search Optimization Framework** — open-source ASO framework and interactive evaluation tool  
+  https://shenxuakaekstasis.github.io/ASO-Framework.html  
+  https://huggingface.co/spaces/ShenXu1013/agentic-search-optimization  
+  https://github.com/ShenXuAkaEkstasis/agentic-search-optimization  
+  https://aso-framework.vercel.app/  
+  https://www.producthunt.com/products/aso-framework-agentic-search?launch=aso-framework-agentic-search
+
+- **GEO Knowledge Test** — scenario-based interactive GEO and AI Visibility assessment  
+  https://github.com/ShenXuAkaEkstasis/geo-quiz-vercel-v2  
+  https://geo-quiz-vercel-v2.vercel.app/
+
+- **A2A Decision Layer** — executable prototype exploring AI-to-AI decision and transaction structures  
+  https://github.com/ShenXuAkaEkstasis/a2a-decision-layer
+
+- **AI Decision Mediation Framework** — framework repository for AI-mediated decision systems  
+  https://github.com/ShenXuAkaEkstasis/ai-decision-mediation-framework
+
+- **DSH AI Shopping Assistant** — DeepSeek Harness plugin for product comparison, candidate ranking, realizable-price analysis, merchant/review evidence, and source-quality checks  
+  https://github.com/ShenXuAkaEkstasis/dsh-ai-shopping-assistant
+
+- **DSH AI SaaS Deal Finder** — DeepSeek Harness plugin for identifying legitimate lower-cost AI/SaaS purchase options while checking region, eligibility, payment, tax, and service-policy constraints  
+  https://github.com/ShenXuAkaEkstasis/dsh-ai-saas-deal-finder
+
+- **Tencent SkillHub portfolio** — published AI skills covering shopping, SaaS deal discovery, business evaluation, fundraising, reputation strategy, creative generation, and AI-native utility workflows
+
+- **DepthMotion AI** — AI-powered photo-to-cinematic-3D-motion product using depth estimation and parallax rendering  
+  https://github.com/ShenXuAkaEkstasis/DepthMotion-AI
+
+- **Entity Ranking Comparison** — implementation work connected to my research on entity importance and structural authority  
+  https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
+
+A fuller product, venture, and implementation history is available here:
+
+**[Products, Ventures & Agentic Systems](./Products-and-Agentic-Systems.md)**
+
+GitHub profile:
+
+https://github.com/ShenXuAkaEkstasis
+
+Hugging Face:
+
+https://huggingface.co/ShenXu1013
+
+Additional public research implementations and ecosystem resources:
+
+- [Agentic Commerce Market Architecture — public framework](https://shenxuakaekstasis.github.io/a2a-market-architecture/) — unified DAE, ASO and A2A research and the original September 2026 research agenda.
+- [AI Shopping Assistant Skill](https://github.com/ShenXuAkaEkstasis/ai-shopping-assistant-skill), [AI Lianhuanhua Skill](https://github.com/ShenXuAkaEkstasis/ai-lianhuanhua-skill), and [Startup Fundraising BP Skill](https://github.com/ShenXuAkaEkstasis/startup-fundraising-bp-skill) — public source projects.
+- [DeepSeek Harness — AI Shopping Assistant plugin listing](https://dsh.pub/en/plugins/dsh-ai-shopping-assistant) — publicly listed implementation.
+- [Technical contributions and ecosystem evidence](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture/blob/main/technical-contributions.md).
+
 ## Core Research Direction
 
 ### Agentic Commerce and A2A Markets
@@ -1576,63 +1663,6 @@ The framework focuses on how the redistribution of decision authority changes in
 I also research how AI systems evaluate the importance and authority of entities.
 
 My 2026 arXiv paper, **Representing Entity Importance in AI Knowledge Systems: A Dual-Signal Framework of Audience Evaluation and Structural Authority**, examines entity importance through audience-evaluation and structural-authority signals.
-
-## Selected Products, Prototypes & Agentic Systems
-
-Selected implementation work includes:
-
-- **A2A Market Architecture** — open research framework examining how markets and commercial infrastructure change when AI agents become active market participants  
-  https://github.com/ShenXuAkaEkstasis/a2a-market-architecture
-
-- **Agentic Search Optimization Framework** — open-source ASO framework and interactive evaluation tool  
-  https://shenxuakaekstasis.github.io/ASO-Framework.html  
-  https://huggingface.co/spaces/ShenXu1013/agentic-search-optimization  
-  https://github.com/ShenXuAkaEkstasis/agentic-search-optimization  
-  https://aso-framework.vercel.app/  
-  https://www.producthunt.com/products/aso-framework-agentic-search?launch=aso-framework-agentic-search
-
-- **GEO Knowledge Test** — scenario-based interactive GEO and AI Visibility assessment  
-  https://github.com/ShenXuAkaEkstasis/geo-quiz-vercel-v2  
-  https://geo-quiz-vercel-v2.vercel.app/
-
-- **A2A Decision Layer** — executable prototype exploring AI-to-AI decision and transaction structures  
-  https://github.com/ShenXuAkaEkstasis/a2a-decision-layer
-
-- **AI Decision Mediation Framework** — framework repository for AI-mediated decision systems  
-  https://github.com/ShenXuAkaEkstasis/ai-decision-mediation-framework
-
-- **DSH AI Shopping Assistant** — DeepSeek Harness plugin for product comparison, candidate ranking, realizable-price analysis, merchant/review evidence, and source-quality checks  
-  https://github.com/ShenXuAkaEkstasis/dsh-ai-shopping-assistant
-
-- **DSH AI SaaS Deal Finder** — DeepSeek Harness plugin for identifying legitimate lower-cost AI/SaaS purchase options while checking region, eligibility, payment, tax, and service-policy constraints  
-  https://github.com/ShenXuAkaEkstasis/dsh-ai-saas-deal-finder
-
-- **Tencent SkillHub portfolio** — published AI skills covering shopping, SaaS deal discovery, business evaluation, fundraising, reputation strategy, creative generation, and AI-native utility workflows
-
-- **DepthMotion AI** — AI-powered photo-to-cinematic-3D-motion product using depth estimation and parallax rendering  
-  https://github.com/ShenXuAkaEkstasis/DepthMotion-AI
-
-- **Entity Ranking Comparison** — implementation work connected to my research on entity importance and structural authority  
-  https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
-
-A fuller product, venture, and implementation history is available here:
-
-**[Products, Ventures & Agentic Systems](./Products-and-Agentic-Systems.md)**
-
-GitHub profile:
-
-https://github.com/ShenXuAkaEkstasis
-
-Hugging Face:
-
-https://huggingface.co/ShenXu1013
-
-Additional public research implementations and ecosystem resources:
-
-- [Agentic Commerce Market Architecture — public framework](https://shenxuakaekstasis.github.io/a2a-market-architecture/) — unified DAE, ASO and A2A research and the original September 2026 research agenda.
-- [AI Shopping Assistant Skill](https://github.com/ShenXuAkaEkstasis/ai-shopping-assistant-skill), [AI Lianhuanhua Skill](https://github.com/ShenXuAkaEkstasis/ai-lianhuanhua-skill), and [Startup Fundraising BP Skill](https://github.com/ShenXuAkaEkstasis/startup-fundraising-bp-skill) — public source projects.
-- [DeepSeek Harness — AI Shopping Assistant plugin listing](https://dsh.pub/en/plugins/dsh-ai-shopping-assistant) — publicly listed implementation.
-- [Technical contributions and ecosystem evidence](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture/blob/main/technical-contributions.md).
 
 ## Selected Books
 
@@ -1821,13 +1851,6 @@ Community articles are self-authored technical publications, not peer-reviewed v
 - **AI CERTs** — [Shen Xu’s Global Recognition Award Highlights Why AI Training Is Essential for the Future of Intelligent Decision-Making](https://www.aicerts.ai/news/authorized-training-partner/ai-training-decision-making-shen-xu-ai-systems/). Industry coverage in its training-partner news section; the publisher discloses possible AI-assisted content. Not an independent research review or endorsement.
 - **June 29, 2026 | MarketersMEDIA** — [Global Recognition Award announcement](https://news.marketersmedia.com/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks/89196390). Press release distribution, also syndicated by Business Insider Markets; not an independent editorial interview.
 
-## Selected China GTM & Marketing Case Studies
-
-- **Selfie Duo Camera (双镜相机) — China market entry and promotion planning | August 25, 2026.** China-market strategy and promotion planning for the iOS dual-camera application. The previously archived article text identifies Shen Xu (徐慎) in this role. [Selfie Duo Camera双镜相机入华，海外应用寻找中国市场增长机会 — Sina News / 新浪新闻](https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml). Published media reference; not presented as an independent client endorsement or a measurement of campaign performance.
-- **Merubali (Indonesia) — AI-assisted China market research | November 10, 2026.** Consumer perception, digital market research and brand communication analysis using Expert-Led AI Orchestration (ELAO). The Chinese-language article explicitly names Shen Xu (徐慎). [中国市场AI营销研究案例：印尼零食品牌Merubali — Yesky / 天极网](https://news.yesky.com/hotnews/295/382795.shtml). Syndicated promotional coverage, labeled advertising by the publisher.
-- **BlocsME (Dubai, UAE) — China market entry and brand visibility | August 27, 2026.** Chinese localization, market-entry planning and AI visibility for a construction project intelligence platform. The article names 徐慎 as a China GTM specialist involved in the work. [BlocsME 布局中国市场：连接中国企业与中东建筑项目机会 — 锦囊专家](https://www.jnexpert.com/article/detail?id=34640) (source credited as GeekPark / 极客公园).
-- **Think Rice Think Thailand: The Taste of Thai Cuisine — Guangzhou | July 2026.** Local implementation support for the Thai Department of Foreign Trade's promotional event. Shen Xu's participation is explicitly mentioned in the November 10 Yesky article linked in the preceding Merubali case; this is not a separate event report.
-
 ## Historical Media & Speaking Evidence
 
 A permanent list of early technology-media interviews, public speaking appearances, startup community events, and contemporary coverage is maintained in [Historical Media & Event Evidence](./Historical-Media-and-Event-Evidence.md).
@@ -1851,30 +1874,6 @@ Selected historical identity evidence:
 
 - **ADPList Fellow Mentor (2026–present)** — recognized on ADPList as a Fellow Mentor, offering mentorship in business strategy, China market entry and growth, digital marketing, and AI search visibility. [Verified mentor profile](https://adplist.org/mentors/shen-xu-mvj9d1l8).
 
-## Professional Background
-
-I have more than **20 years of experience** across digital strategy, technology, marketing, product development, venture building, SaaS, and China market consulting.
-
-Across agency, internet, technology, software, consulting, and entrepreneurial work, I have worked with or supported **300+ brands and organizations**.
-
-Selected experience includes:
-
-- **CATT China** — founder and Business Strategy Director, as identified in the November 2026 Leaders Perception interview; China market entry, growth and strategic marketing consulting.
-
-- **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; both Banmake (斑马客) and Xiangge (相格) secured investment. Banmake received investment from an undisclosed Singapore-based investment firm. Xiangge received strategic investment from **Qihoo 360 (奇虎360)** and exceeded **5 million downloads within one year**.
-
-- **DigitasLBi Greater China / Publicis Groupe** — served as **Strategy Director**, connecting digital strategy, product thinking, consumer behavior, and enterprise transformation.
-
-- **TUNA** — founder and CEO; angel-backed entrepreneurial and commercialization experience across technology, digital products, and enterprise projects.
-
-- **Yueliu Network / 阅流网络** — Marketing & Operations Director at a Series B+ venture-backed technology company.
-
-- **TSplus** — China market marketing and growth work for a French B2B software company, including localization, search visibility, content, product positioning, and market development.
-
-- **Technology-company advisory work** — business model, market strategy, growth, partnership, and ecosystem development for venture-backed technology businesses, including external marketing and communications advisory work for ET STAR (梯之星), a subsidiary of Series D-backed Zhejiang Xin Zailing Technology Co., Ltd.
-
-My current work combines AI research, product experimentation, open-source development, and strategic consulting, with particular emphasis on **Agentic Commerce, A2A markets, Agentic Search, AI Visibility, AI-mediated decision systems, and China market strategy**.
-
 ## Current Research Question
 
 My current work centers on a broader question:
@@ -1890,6 +1889,6 @@ The underlying transition can be summarized as:
 ---
 
 **Shen Xu / 徐慎**  
-Business & Growth Strategist · Independent Researcher  
+Business Strategy & Growth Strategist · Entrepreneur · Product Builder  
 Agentic Commerce · A2A Markets · Agentic Search · AI Visibility · Decision Authority  
 Shanghai, China
