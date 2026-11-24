@@ -1,14 +1,25 @@
 # Shen Xu 徐慎
 
-**Independent Researcher & Strategist | Agentic Commerce · A2A Markets · Agentic Search · AI Visibility · Decision Authority | Shanghai, China**
+**Former DigitasLBi Greater China Strategy Director | 6 Fundraising Projects | RMB 260M+ Tech Marketing & Operations Director | Growth Advisor to RMB 5B+ Soonicorn (Series D) | 5M+ App Downloads in One Year | China GTM | AI Visibility & A2A Commerce**
 
-I am **Shen Xu (徐慎)**, an independent researcher, strategist, author, entrepreneur, and product builder based in Shanghai, China.
+I am **Shen Xu (徐慎)**, a business and growth strategist, former Greater China Strategy Director at DigitasLBi (Publicis Groupe), entrepreneur, product builder, independent researcher, and author based in Shanghai, China.
 
 My current work increasingly centers on **Agentic Commerce and Agent-to-Agent (A2A) markets**: how commerce changes when AI systems move beyond information retrieval and begin participating directly in **evaluation, selection, action, coordination, and transaction**.
 
 I study this transition through **Agentic Commerce, A2A Market Architecture, Agentic Search Optimization (ASO), Decision Authority Economy (DAE), AI Visibility, and Entity Ranking**.
 
 My work combines research, strategic consulting, product development, and hands-on implementation. Alongside books and papers, I build **open-source frameworks, interactive assessment tools, agentic-system prototypes, DeepSeek Harness plugins, AI skills, decision tools, and AI-native product experiments**.
+
+## Venture & Fundraising Experience
+
+My career spans six fundraising-related projects and experience across angel, Series A, Series B+, and Series D-backed technology businesses, combining startup founding, product commercialization, marketing and operations leadership, and external growth advisory work.
+
+- **Vanilla Tech / 上海香草科技 — Angel and Series A:** co-founder and operating role, with experience in fundraising, mobile product development and growth. The company received strategic investment from Qihoo 360; its mobile app achieved more than 5 million downloads within one year.
+- **TUNA Studio — Angel:** founder and CEO; received angel investment from Tianqi Amoeba (天奇阿米巴).
+- **Yueliu Network / 阅流网络 — Series B+:** Marketing & Operations Director at the venture-backed enterprise technology company.
+- **ET STAR / 梯之星 — Series D-backed:** external marketing and communications advisor to ET STAR, a subsidiary of Zhejiang Xin Zailing Technology Co., Ltd. (浙江新再灵科技), the Series D financing entity.
+
+[Products, venture building and financing background](./Products-and-Agentic-Systems.md)
 
 ## Identity & Public Profiles
 
@@ -42,7 +53,7 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "@type": "ProfilePage",
       "@id": "https://shenxuakaekstasis.github.io/#profilepage",
       "url": "https://shenxuakaekstasis.github.io/",
-      "name": "Shen Xu (徐慎) — Independent Researcher & Strategist",
+      "name": "Shen Xu (徐慎) — Business & Growth Strategist, Former DigitasLBi Greater China Strategy Director",
       "mainEntity": {
         "@id": "https://shenxuakaekstasis.github.io/#person"
       },
@@ -304,9 +315,15 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
           "@id": "https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml"
         }
       ],
-      "hasPart": {
-        "@id": "https://shenxuakaekstasis.github.io/#case-studies"
-      }
+      "hasPart": [
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#case-studies"
+        },
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#venture-fundraising-experience"
+        }
+      ],
+      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A), TUNA Studio (angel), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority."
     },
     {
       "@type": "Person",
@@ -324,8 +341,8 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "徐慎 (Ekstasis)"
       ],
       "url": "https://shenxuakaekstasis.github.io/",
-      "description": "Independent researcher, strategist and author focused on agentic commerce, agentic search, decision authority and AI visibility.",
-      "jobTitle": "Independent Researcher & Strategist",
+      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A), TUNA Studio (angel), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority.",
+      "jobTitle": "Business & Growth Strategist; Independent Researcher",
       "sameAs": [
         "https://github.com/ShenXuAkaEkstasis",
         "https://www.linkedin.com/in/shanehsu/",
@@ -362,7 +379,14 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "Portable Agent Memory",
         "AI-mediated Decision Systems",
         "Agent Authorization",
-        "Enterprise Procurement"
+        "Enterprise Procurement",
+        "Business Strategy",
+        "Startup Fundraising",
+        "Venture Building",
+        "Marketing and Operations",
+        "Growth Strategy",
+        "Mobile App Growth",
+        "Product Commercialization"
       ],
       "identifier": [
         {
@@ -1313,6 +1337,18 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         }
       ],
       "description": "Media coverage of Selfie Duo Camera's China market entry, naming Shen Xu (徐慎) in connection with China-market strategy and promotion planning. Publisher link supplied by Shen Xu; article wording supported by the previously archived text."
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://shenxuakaekstasis.github.io/#venture-fundraising-experience",
+      "name": "Venture & Fundraising Experience",
+      "isPartOf": {
+        "@id": "https://shenxuakaekstasis.github.io/#profilepage"
+      },
+      "about": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "text": "My career spans six fundraising-related projects and experience across angel, Series A, Series B+, and Series D-backed technology businesses, combining startup founding, product commercialization, marketing and operations leadership, and external growth advisory work.\n- Vanilla Tech / 上海香草科技 — Angel and Series A: co-founder and operating role, with experience in fundraising, mobile product development and growth. The company received strategic investment from Qihoo 360; its mobile app achieved more than 5 million downloads within one year.\n- TUNA Studio — Angel: founder and CEO; received angel investment from Tianqi Amoeba (天奇阿米巴).\n- Yueliu Network / 阅流网络 — Series B+: Marketing & Operations Director at the venture-backed enterprise technology company.\n- ET STAR / 梯之星 — Series D-backed: external marketing and communications advisor to ET STAR, a subsidiary of Zhejiang Xin Zailing Technology Co., Ltd. (浙江新再灵科技), the Series D financing entity."
     }
   ]
 }
@@ -1823,17 +1859,17 @@ Selected experience includes:
 
 - **CATT China** — founder and Business Strategy Director, as identified in the November 2026 Leaders Perception interview; China market entry, growth and strategic marketing consulting.
 
-- **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; products included Banmake and Xiangge. Xiangge-related products exceeded **5 million cumulative downloads**, and the company received strategic investment from **Qihoo 360**.
+- **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; products included Banmake and Xiangge. Xiangge-related products exceeded **5 million downloads within one year**, and the company received strategic investment from **Qihoo 360**.
 
 - **DigitasLBi Greater China / Publicis Groupe** — served as **Strategy Director**, connecting digital strategy, product thinking, consumer behavior, and enterprise transformation.
 
 - **TUNA** — founder and CEO; angel-backed entrepreneurial and commercialization experience across technology, digital products, and enterprise projects.
 
-- **Yueliu / 阅流** — growth and market work inside a venture-backed technology company.
+- **Yueliu Network / 阅流网络** — Marketing & Operations Director at a Series B+ venture-backed technology company.
 
 - **TSplus** — China market marketing and growth work for a French B2B software company, including localization, search visibility, content, product positioning, and market development.
 
-- **Technology-company advisory work** — business model, market strategy, growth, partnership, and ecosystem development for venture-backed technology businesses.
+- **Technology-company advisory work** — business model, market strategy, growth, partnership, and ecosystem development for venture-backed technology businesses, including external marketing and communications advisory work for ET STAR (梯之星), a subsidiary of Series D-backed Zhejiang Xin Zailing Technology Co., Ltd.
 
 My current work combines AI research, product experimentation, open-source development, and strategic consulting, with particular emphasis on **Agentic Commerce, A2A markets, Agentic Search, AI Visibility, AI-mediated decision systems, and China market strategy**.
 
@@ -1852,6 +1888,6 @@ The underlying transition can be summarized as:
 ---
 
 **Shen Xu / 徐慎**  
-Independent Researcher & Strategist  
+Business & Growth Strategist · Independent Researcher  
 Agentic Commerce · A2A Markets · Agentic Search · AI Visibility · Decision Authority  
 Shanghai, China
