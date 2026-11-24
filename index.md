@@ -299,6 +299,9 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         },
         {
           "@id": "https://www.jnexpert.com/article/detail?id=34640"
+        },
+        {
+          "@id": "https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml"
         }
       ],
       "hasPart": {
@@ -1288,6 +1291,28 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
           }
         }
       ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml",
+      "url": "https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml",
+      "headline": "Selfie Duo Camera双镜相机入华，海外应用寻找中国市场增长机会",
+      "datePublished": "2026-08-25",
+      "inLanguage": "zh-CN",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Sina News (新浪新闻)"
+      },
+      "about": [
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#person"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Selfie Duo Camera"
+        }
+      ],
+      "description": "Media coverage of Selfie Duo Camera's China market entry, naming Shen Xu (徐慎) in connection with China-market strategy and promotion planning. Publisher link supplied by Shen Xu; article wording supported by the previously archived text."
     }
   ]
 }
@@ -1761,6 +1786,7 @@ Community articles are self-authored technical publications, not peer-reviewed v
 
 ## Selected China GTM & Marketing Case Studies
 
+- **Selfie Duo Camera (双镜相机) — China market entry and promotion planning | August 25, 2026.** China-market strategy and promotion planning for the iOS dual-camera application. The previously archived article text identifies Shen Xu (徐慎) in this role. [Selfie Duo Camera双镜相机入华，海外应用寻找中国市场增长机会 — Sina News / 新浪新闻](https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml). Published media reference; not presented as an independent client endorsement or a measurement of campaign performance.
 - **Merubali (Indonesia) — AI-assisted China market research | November 10, 2026.** Consumer perception, digital market research and brand communication analysis using Expert-Led AI Orchestration (ELAO). The Chinese-language article explicitly names Shen Xu (徐慎). [中国市场AI营销研究案例：印尼零食品牌Merubali — Yesky / 天极网](https://news.yesky.com/hotnews/295/382795.shtml). Syndicated promotional coverage, labeled advertising by the publisher.
 - **BlocsME (Dubai, UAE) — China market entry and brand visibility | August 27, 2026.** Chinese localization, market-entry planning and AI visibility for a construction project intelligence platform. The article names 徐慎 as a China GTM specialist involved in the work. [BlocsME 布局中国市场：连接中国企业与中东建筑项目机会 — 锦囊专家](https://www.jnexpert.com/article/detail?id=34640) (source credited as GeekPark / 极客公园).
 - **Think Rice Think Thailand: The Taste of Thai Cuisine — Guangzhou | July 2026.** Local implementation support for the Thai Department of Foreign Trade's promotional event. Shen Xu's participation is explicitly mentioned in the [November 10 Yesky article](https://news.yesky.com/hotnews/295/382795.shtml); this is not a separate event report.
