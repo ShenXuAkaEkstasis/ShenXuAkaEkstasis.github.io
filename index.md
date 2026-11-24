@@ -10,6 +10,514 @@ I study this transition through **Agentic Commerce, A2A Market Architecture, Age
 
 My work combines research, strategic consulting, product development, and hands-on implementation. Alongside books and papers, I build **open-source frameworks, interactive assessment tools, agentic-system prototypes, DeepSeek Harness plugins, AI skills, decision tools, and AI-native product experiments**.
 
+## Identity & Public Profiles
+
+**Shen Xu (徐慎)** is also known as **Shane Hsu**, **Ekstasis**, **Ekstasis Zea** (pen name), **EK**, and **徐慎Ekstasis** (Tencent Cloud author name). **ShenXuAkaEkstasis** is my GitHub username. These names refer to the same individual; my primary professional and research name is Shen Xu (徐慎).
+
+- [GitHub](https://github.com/ShenXuAkaEkstasis)
+- [LinkedIn](https://www.linkedin.com/in/shanehsu/)
+- [ORCID](https://orcid.org/0009-0007-6471-2620)
+- [Google Scholar](https://scholar.google.com/citations?user=h4IUafgAAAAJ)
+- [Tencent Cloud Developer Community — 徐慎Ekstasis](https://developer.cloud.tencent.com/user/12686874)
+- [DEV Community](https://dev.to/shen_xu)
+- [Hugging Face](https://huggingface.co/ShenXu1013)
+- [Thinkers360](https://www.thinkers360.com/tl/profiles/view/33319)
+- [ADPList](https://adplist.org/mentors/shen-xu-mvj9d1l8)
+- [X](https://x.com/shanehsu1013)
+- [AI Visibility & Agentic Commerce profile](https://agent-ready-ai-visibility.ek-zea.chatgpt.site/)
+- [AbeBooks author profile](https://www.abebooks.com/author/b0h3k97x11/shen-xu)
+
+Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](https://developer.aliyun.com/article/298120); [AbeBooks — Shen Xu, pen name Ekstasis Zea](https://www.abebooks.com/author/b0h3k97x11/shen-xu).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": "https://shenxuakaekstasis.github.io/#profilepage",
+      "url": "https://shenxuakaekstasis.github.io/",
+      "name": "Shen Xu (徐慎) — Independent Researcher & Strategist",
+      "mainEntity": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      },
+      "dateModified": "2026-11-23",
+      "mentions": [
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2776622"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2768717"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2766566"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2765379"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2762849"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2760687"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2757945"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2757006"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2756310"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2755510"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2755198"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2754673"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2753028"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2752043"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2750638"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2749580"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2748814"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2748084"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2747371"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2746190"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2743885"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2742976"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2742669"
+        },
+        {
+          "@id": "https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents"
+        },
+        {
+          "@id": "https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900"
+        },
+        {
+          "@id": "https://www.linkedin.com/pulse/agent-to-agent-commerce-from-decision-authority-machine-shen-xu-%E5%BE%90%E6%85%8E-zxmkc"
+        },
+        {
+          "@id": "https://www.amazon.com/dp/9999353231"
+        },
+        {
+          "@id": "https://www.amazon.com/dp/B0GY65JZ3H"
+        },
+        {
+          "@id": "https://www.amazon.com/dp/B0H2Y7MYNR"
+        },
+        {
+          "@id": "https://www.amazon.com/dp/B0H4XBSYQD"
+        },
+        {
+          "@id": "https://www.amazon.com/dp/B08MFMFBHV"
+        },
+        {
+          "@id": "https://arxiv.org/abs/2607.20925"
+        },
+        {
+          "@id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://shenxuakaekstasis.github.io/#person",
+      "name": "Shen Xu",
+      "alternateName": [
+        "徐慎",
+        "Shane Hsu",
+        "Ekstasis",
+        "Ekstasis Zea",
+        "EK",
+        "徐慎Ekstasis",
+        "ShenXuAkaEkstasis"
+      ],
+      "url": "https://shenxuakaekstasis.github.io/",
+      "description": "Independent researcher, strategist and author focused on agentic commerce, agentic search, decision authority and AI visibility.",
+      "jobTitle": "Independent Researcher & Strategist",
+      "sameAs": [
+        "https://github.com/ShenXuAkaEkstasis",
+        "https://www.linkedin.com/in/shanehsu/",
+        "https://orcid.org/0009-0007-6471-2620",
+        "https://scholar.google.com/citations?user=h4IUafgAAAAJ",
+        "https://developer.cloud.tencent.com/user/12686874",
+        "https://dev.to/shen_xu",
+        "https://huggingface.co/ShenXu1013",
+        "https://www.thinkers360.com/tl/profiles/view/33319",
+        "https://adplist.org/mentors/shen-xu-mvj9d1l8",
+        "https://x.com/shanehsu1013",
+        "https://agent-ready-ai-visibility.ek-zea.chatgpt.site/",
+        "https://www.abebooks.com/author/b0h3k97x11/shen-xu"
+      ],
+      "award": [
+        "2026 Global Recognition Award — Innovation and Research",
+        "Bronze Globee Award for Artificial Intelligence Thought Leadership of the Year (2026)"
+      ],
+      "knowsAbout": [
+        "Agentic Commerce",
+        "Agent-to-Agent Commerce",
+        "Agentic Search Optimization",
+        "Decision Authority Economy",
+        "Decision Authority Graph",
+        "AI Visibility",
+        "Generative Engine Optimization",
+        "Entity Ranking",
+        "China Market Entry",
+        "Go-to-Market Strategy"
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2776622",
+      "url": "https://developer.cloud.tencent.com/article/2776622",
+      "headline": "Decision Authority Graph（DAG）：从信息权威到AI决策权威的关系网络",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2768717",
+      "url": "https://developer.cloud.tencent.com/article/2768717",
+      "headline": "AI 技术平权之后，为什么企业不会什么都自己做？",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2766566",
+      "url": "https://developer.cloud.tencent.com/article/2766566",
+      "headline": "当AI成为主要生产力：从行业竞争、Agent决策权到货币价值的重新思考",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2765379",
+      "url": "https://developer.cloud.tencent.com/article/2765379",
+      "headline": "从一次 Pay Skill 支付接入，看 A2A Commerce 离我们还有多远",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2762849",
+      "url": "https://developer.cloud.tencent.com/article/2762849",
+      "headline": "当AI开始自行决定如何执行任务：一次ChatGPT使用经历引发的三个问题",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2760687",
+      "url": "https://developer.cloud.tencent.com/article/2760687",
+      "headline": "当大模型成为工作操作系统：Agent 正在改变工作流、组织结构与商业价值",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2757945",
+      "url": "https://developer.cloud.tencent.com/article/2757945",
+      "headline": "从 JaaS 到 DaaS：当 AI 开始真正作出决策，我们是否需要重新讨论判断与决策的边界？",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2757006",
+      "url": "https://developer.cloud.tencent.com/article/2757006",
+      "headline": "算力可以堆砌，但时间无法追赶：未来AI产品的竞争，最终是否取决于用户的时间？",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2756310",
+      "url": "https://developer.cloud.tencent.com/article/2756310",
+      "headline": "从 Hark 重新理解 Decision Authority：当 AI 开始替人做决定，真正改变的是决策结构",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2755510",
+      "url": "https://developer.cloud.tencent.com/article/2755510",
+      "headline": "我接触过的几位美国 AI 创业者：精英化，以及两种很不一样的起点",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2755198",
+      "url": "https://developer.cloud.tencent.com/article/2755198",
+      "headline": "当 AI 开始替我们筛选：价格战、信任与被过滤后的选择",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2754673",
+      "url": "https://developer.cloud.tencent.com/article/2754673",
+      "headline": "从 Agent 到 A2A：当人不再是每一次交易的决策主体",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2753028",
+      "url": "https://developer.cloud.tencent.com/article/2753028",
+      "headline": "Agent-Ready Merchant Framework：面向 AI 可见度、Agentic Search 与 A2A Commerce 的八层模型",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2752043",
+      "url": "https://developer.cloud.tencent.com/article/2752043",
+      "headline": "从选择到承诺：决策权（Decision Authority）如何推动智能体商业（Agentic Commerce）",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2750638",
+      "url": "https://developer.cloud.tencent.com/article/2750638",
+      "headline": "当 AI 不再把用户送回网站：Agentic Commerce 开始重构交易链条",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2749580",
+      "url": "https://developer.cloud.tencent.com/article/2749580",
+      "headline": "Amazon 为什么挡住 Muse：被冲击的不只是广告，而是整个货架电商的决策入口",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2748814",
+      "url": "https://developer.cloud.tencent.com/article/2748814",
+      "headline": "Jev 与 GEO：从 AI 可见性走向 Agent-First Selection",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2748084",
+      "url": "https://developer.cloud.tencent.com/article/2748084",
+      "headline": "从意图到决策权：Agentic Commerce 的下一个问题",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2747371",
+      "url": "https://developer.cloud.tencent.com/article/2747371",
+      "headline": "协议不是市场：A2A Commerce 正在形成的基础设施版图",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2746190",
+      "url": "https://developer.cloud.tencent.com/article/2746190",
+      "headline": "什么是 A2A Commerce？从 Agentic Commerce 到 Agent-to-Agent 市场的 8 层架构",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2743885",
+      "url": "https://developer.cloud.tencent.com/article/2743885",
+      "headline": "从移动产品到 AI Skill：产品、融资与科技实践中的一些观察",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2742976",
+      "url": "https://developer.cloud.tencent.com/article/2742976",
+      "headline": "从移动互联网到 Agentic Commerce：二十多年实践中我看到的商业决策权迁移",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2742669",
+      "url": "https://developer.cloud.tencent.com/article/2742669",
+      "headline": "Agent to Agent（A2A）的电子商务，离我们还有多远",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents",
+      "url": "https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents",
+      "headline": "Decision Authority in AI Agents: Why Context Matters More Than Automation",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900",
+      "url": "https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900",
+      "headline": "Portable AI Agent Memory: What Should Move When Users Switch Agents?",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.linkedin.com/pulse/agent-to-agent-commerce-from-decision-authority-machine-shen-xu-%E5%BE%90%E6%85%8E-zxmkc",
+      "url": "https://www.linkedin.com/pulse/agent-to-agent-commerce-from-decision-authority-machine-shen-xu-%E5%BE%90%E6%85%8E-zxmkc",
+      "headline": "Agent-to-Agent Commerce: From Decision Authority to Machine Transactions",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.amazon.com/dp/9999353231",
+      "url": "https://www.amazon.com/dp/9999353231",
+      "name": "From Search to Agentic Commerce: Attribution Collapse, Agentic Search, Decision Authority, and A2A Markets",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.amazon.com/dp/B0GY65JZ3H",
+      "url": "https://www.amazon.com/dp/B0GY65JZ3H",
+      "name": "Decision Authority Economy: How AI Reshapes Judgement, Systems, and Economic Power",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.amazon.com/dp/B0H2Y7MYNR",
+      "url": "https://www.amazon.com/dp/B0H2Y7MYNR",
+      "name": "Agentic Search Optimization: A Practical Introduction to AI Search, Visibility, and Selection",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.amazon.com/dp/B0H4XBSYQD",
+      "url": "https://www.amazon.com/dp/B0H4XBSYQD",
+      "name": "AI可见性营销",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.amazon.com/dp/B08MFMFBHV",
+      "url": "https://www.amazon.com/dp/B08MFMFBHV",
+      "name": "Social Community Marketing in China: How Douyin and WeChat Shape China's Internet",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://arxiv.org/abs/2607.20925",
+      "url": "https://arxiv.org/abs/2607.20925",
+      "headline": "Representing Entity Importance in AI Knowledge Systems: A Dual-Signal Framework of Audience Evaluation and Structural Authority",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918",
+      "headline": "Attribution Collapse under AI-Mediated Decision Systems: Toward a Decision Authority Economy",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    }
+  ]
+}
+</script>
+
 <style>
 .product-section {
   margin: 30px 0 42px;
@@ -333,6 +841,9 @@ https://www.amazon.com/dp/B0H4XBSYQD
 
 An earlier Chinese-language book examining social media, community marketing, digital platforms, and the evolution of user attention and commercial influence in the Chinese Internet environment.
 
+Amazon:  
+https://www.amazon.com/dp/B08MFMFBHV
+
 This earlier publishing work forms part of the longer intellectual path from **social distribution and platform influence** toward **AI Visibility, Agentic Search, Decision Authority, Agentic Commerce, and A2A markets**.
 
 ## Research Publication
@@ -348,6 +859,45 @@ https://arxiv.org/abs/2607.20925
 Code repository:  
 https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 
+## Technical Community Publications & Research Updates
+
+- **Decision Authority Graph (DAG)** — a conceptual extension of Decision Authority Economy examining authority relationships and their influence on AI-mediated evaluation and decisions.
+- **SSRN research preprint:** [Attribution Collapse under AI-Mediated Decision Systems: Toward a Decision Authority Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610918).
+
+### Tencent Cloud Developer Community — 徐慎Ekstasis
+
+- [Decision Authority Graph（DAG）：从信息权威到AI决策权威的关系网络](https://developer.cloud.tencent.com/article/2776622)
+- [AI 技术平权之后，为什么企业不会什么都自己做？](https://developer.cloud.tencent.com/article/2768717)
+- [当AI成为主要生产力：从行业竞争、Agent决策权到货币价值的重新思考](https://developer.cloud.tencent.com/article/2766566)
+- [从一次 Pay Skill 支付接入，看 A2A Commerce 离我们还有多远](https://developer.cloud.tencent.com/article/2765379)
+- [当AI开始自行决定如何执行任务：一次ChatGPT使用经历引发的三个问题](https://developer.cloud.tencent.com/article/2762849)
+- [当大模型成为工作操作系统：Agent 正在改变工作流、组织结构与商业价值](https://developer.cloud.tencent.com/article/2760687)
+- [从 JaaS 到 DaaS：当 AI 开始真正作出决策，我们是否需要重新讨论判断与决策的边界？](https://developer.cloud.tencent.com/article/2757945)
+- [算力可以堆砌，但时间无法追赶：未来AI产品的竞争，最终是否取决于用户的时间？](https://developer.cloud.tencent.com/article/2757006)
+- [从 Hark 重新理解 Decision Authority：当 AI 开始替人做决定，真正改变的是决策结构](https://developer.cloud.tencent.com/article/2756310)
+- [我接触过的几位美国 AI 创业者：精英化，以及两种很不一样的起点](https://developer.cloud.tencent.com/article/2755510)
+- [当 AI 开始替我们筛选：价格战、信任与被过滤后的选择](https://developer.cloud.tencent.com/article/2755198)
+- [从 Agent 到 A2A：当人不再是每一次交易的决策主体](https://developer.cloud.tencent.com/article/2754673)
+- [Agent-Ready Merchant Framework：面向 AI 可见度、Agentic Search 与 A2A Commerce 的八层模型](https://developer.cloud.tencent.com/article/2753028)
+- [从选择到承诺：决策权（Decision Authority）如何推动智能体商业（Agentic Commerce）](https://developer.cloud.tencent.com/article/2752043)
+- [当 AI 不再把用户送回网站：Agentic Commerce 开始重构交易链条](https://developer.cloud.tencent.com/article/2750638)
+- [Amazon 为什么挡住 Muse：被冲击的不只是广告，而是整个货架电商的决策入口](https://developer.cloud.tencent.com/article/2749580)
+- [Jev 与 GEO：从 AI 可见性走向 Agent-First Selection](https://developer.cloud.tencent.com/article/2748814)
+- [从意图到决策权：Agentic Commerce 的下一个问题](https://developer.cloud.tencent.com/article/2748084)
+- [协议不是市场：A2A Commerce 正在形成的基础设施版图](https://developer.cloud.tencent.com/article/2747371)
+- [什么是 A2A Commerce？从 Agentic Commerce 到 Agent-to-Agent 市场的 8 层架构](https://developer.cloud.tencent.com/article/2746190)
+- [从移动产品到 AI Skill：产品、融资与科技实践中的一些观察](https://developer.cloud.tencent.com/article/2743885)
+- [从移动互联网到 Agentic Commerce：二十多年实践中我看到的商业决策权迁移](https://developer.cloud.tencent.com/article/2742976)
+- [Agent to Agent（A2A）的电子商务，离我们还有多远](https://developer.cloud.tencent.com/article/2742669)
+
+[Full Tencent Cloud article directory](https://developer.cloud.tencent.com/user/12686874/articles).
+
+### English-language research and technical articles
+
+- [Decision Authority in AI Agents: Why Context Matters More Than Automation](https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents)
+- [Portable AI Agent Memory: What Should Move When Users Switch Agents?](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900)
+- [Agent-to-Agent Commerce: From Decision Authority to Machine Transactions](https://www.linkedin.com/pulse/agent-to-agent-commerce-from-decision-authority-machine-shen-xu-%E5%BE%90%E6%85%8E-zxmkc)
+
 ## Historical Media & Speaking Evidence
 
 A permanent list of early technology-media interviews, public speaking appearances, startup community events, and contemporary coverage is maintained in [Historical Media & Event Evidence](./Historical-Media-and-Event-Evidence.md).
@@ -357,6 +907,11 @@ A permanent list of early technology-media interviews, public speaking appearanc
 - **November 5, 2026 | Yeyupiaoling Tech Blog** — [*dsh-ai-shopping-assistant: Organizing Shopping Evidence into Structured Decisions*](https://blog.yeyupiaoling.cn/article/1793819639513?lang=en). External technical overview of my [DSH AI Shopping Assistant](https://github.com/ShenXuAkaEkstasis/dsh-ai-shopping-assistant) open-source plugin, covering its evidence-based product ranking, price verification, and source-risk checks.
 
 ## Mentorship & Professional Recognition
+
+- **2026 Global Recognition Award — Innovation and Research** — [Official winner profile](https://globalrecognitionawards.org/winners/2026/shen-xu-recognized-with-a-2026-global-recognition-award/) · [Business Insider coverage](https://markets.businessinsider.com/news/stocks/shen-xu-receives-a-2026-global-recognition-award-for-advancing-ai-mediated-decision-systems-and-economic-coordination-frameworks-1036283725).
+- **Bronze Globee Award for Artificial Intelligence (2026)** — Artificial Intelligence Thought Leadership of the Year, for *AI Decision Mediation for Agent-Driven Systems*. [Official winners list](https://globeeawards.com/2026-winners-artificial-intelligence-awards/).
+- **Judge — 2027 IMPACT Awards** — [professional profile](https://www.linkedin.com/in/shanehsu/).
+- **IEEE Member / IEEE Technology and Engineering Management Society (TEMS).**
 
 - **ADPList Fellow Mentor (2026–present)** — recognized on ADPList as a Fellow Mentor, offering mentorship in business strategy, China market entry and growth, digital marketing, and AI search visibility. [Verified mentor profile](https://adplist.org/mentors/shen-xu-mvj9d1l8).
 
