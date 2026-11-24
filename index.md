@@ -2,7 +2,7 @@
 
 **Ex-DigitasLBi Greater China Strategy Director | 6 Fundraising Projects | RMB 260M+ Tech MKT & Ops Director | Growth Advisor to RMB 5B+ Soonicorn (Series D) | 5M+ App DLs/Yr | China GTM | AI Visibility & A2A Commerce**
 
-I am **Shen Xu (徐慎)**, a **business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder** based in Shanghai, China. I formerly served as Greater China Strategy Director at DigitasLBi (Publicis Groupe).
+I am **Shen Xu (徐慎)**, a **business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder** based in Shanghai, China. I formerly served as Greater China Strategy Director at DigitasLBi (Publicis Groupe). I also served as China Marketing Director at TSplus Group (France).
 
 My professional background spans six fundraising projects, marketing and operations leadership in a RMB 260M+ technology business, growth advisory experience with a RMB 5B+ Series D soonicorn through its subsidiary, and consumer app growth exceeding 5 million downloads in one year.
 
@@ -313,6 +313,15 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         },
         {
           "@id": "https://news.sina.com.cn/sx/2026-08-25/detail-inipnyqu1583593.shtml"
+        },
+        {
+          "@id": "https://tsplus.net/tsplus-and-cogito-software-deepen-partnership-in-china/"
+        },
+        {
+          "@id": "https://tsplus.net/en_gb/tsplus-headquarters-meeting-in-paris-sets-the-stage-for-a-promising-2025/"
+        },
+        {
+          "@id": "https://prospeo.io/c/tsplus-group"
         }
       ],
       "hasPart": [
@@ -323,7 +332,7 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
           "@id": "https://shenxuakaekstasis.github.io/#venture-fundraising-experience"
         }
       ],
-      "description": "Business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Core practice: business strategy, China GTM, growth, venture building and technology commercialization. Current strategic specializations include AI visibility, agentic commerce, A2A markets, agentic search and decision authority, supported by published work and product development.",
+      "description": "Business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Core practice: business strategy, China GTM, growth, venture building and technology commercialization. Current strategic specializations include AI visibility, agentic commerce, A2A markets, agentic search and decision authority, supported by published work and product development. Former China Marketing Director at TSplus Group (France), with responsibility for China market marketing and growth.",
       "headline": "Ex-DigitasLBi Greater China Strategy Director | 6 Fundraising Projects | RMB 260M+ Tech MKT & Ops Director | Growth Advisor to RMB 5B+ Soonicorn (Series D) | 5M+ App DLs/Yr | China GTM | AI Visibility & A2A Commerce"
     },
     {
@@ -342,7 +351,7 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "徐慎 (Ekstasis)"
       ],
       "url": "https://shenxuakaekstasis.github.io/",
-      "description": "Ex-DigitasLBi Greater China Strategy Director | 6 Fundraising Projects | RMB 260M+ Tech MKT & Ops Director | Growth Advisor to RMB 5B+ Soonicorn (Series D) | 5M+ App DLs/Yr | China GTM | AI Visibility & A2A Commerce. Business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Core practice: business strategy, China GTM, growth, venture building and technology commercialization. Current strategic specializations include AI visibility, agentic commerce, A2A markets, agentic search and decision authority, supported by published work and product development.",
+      "description": "Ex-DigitasLBi Greater China Strategy Director | 6 Fundraising Projects | RMB 260M+ Tech MKT & Ops Director | Growth Advisor to RMB 5B+ Soonicorn (Series D) | 5M+ App DLs/Yr | China GTM | AI Visibility & A2A Commerce. Business strategy and growth strategist, entrepreneur, technology marketing and operations leader, and product builder; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel investment from Nanjing Tianqi Amoeba), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Core practice: business strategy, China GTM, growth, venture building and technology commercialization. Current strategic specializations include AI visibility, agentic commerce, A2A markets, agentic search and decision authority, supported by published work and product development. Former China Marketing Director at TSplus Group (France), with responsibility for China market marketing and growth.",
       "jobTitle": "Business Strategy & Growth Strategist",
       "sameAs": [
         "https://github.com/ShenXuAkaEkstasis",
@@ -394,6 +403,26 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
           "@type": "PropertyValue",
           "propertyID": "X",
           "value": "@shanehsu1013"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "OrganizationRole",
+          "roleName": "China Marketing Director",
+          "alumniOf": {
+            "@id": "https://shenxuakaekstasis.github.io/#tsplus-group"
+          }
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://tsplus.net/tsplus-and-cogito-software-deepen-partnership-in-china/"
+        },
+        {
+          "@id": "https://tsplus.net/en_gb/tsplus-headquarters-meeting-in-paris-sets-the-stage-for-a-promising-2025/"
+        },
+        {
+          "@id": "https://prospeo.io/c/tsplus-group"
         }
       ]
     },
@@ -1350,6 +1379,67 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "@id": "https://shenxuakaekstasis.github.io/#person"
       },
       "text": "My career spans six fundraising-related projects and experience across angel, Series A, Series B+, and Series D-backed technology businesses, combining startup founding, product commercialization, marketing and operations leadership, and external growth advisory work.\n- Vanilla Tech / 上海香草科技 — Angel and Series A: co-founder and operating role; two separate product projects secured investment.\n  - Banmake (斑马客): received investment from an undisclosed Singapore-based investment firm.\n  - Xiangge (相格): received strategic investment from Qihoo 360 (奇虎360); exceeded 5 million app downloads within one year.\n- TUNA Studio — Angel: founder and CEO; received angel investment from Nanjing Tianqi Amoeba (南京天奇阿米巴).\n- Yueliu Network / 阅流网络 — Series B+: Marketing & Operations Director at the venture-backed enterprise technology company.\n- ET STAR / 梯之星 — Series D-backed: external marketing and communications advisor to ET STAR, a subsidiary of Zhejiang Xin Zailing Technology Co., Ltd. (浙江新再灵科技), the Series D financing entity."
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://shenxuakaekstasis.github.io/#tsplus-group",
+      "name": "TSplus Group",
+      "url": "https://tsplus.net/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://tsplus.net/tsplus-and-cogito-software-deepen-partnership-in-china/",
+      "url": "https://tsplus.net/tsplus-and-cogito-software-deepen-partnership-in-china/",
+      "headline": "TSplus and Cogito Software Unite for Enhanced Market Growth in China",
+      "publisher": {
+        "@id": "https://shenxuakaekstasis.github.io/#tsplus-group"
+      },
+      "description": "TSplus company announcement identifying Shen Xu as responsible for marketing in its China team.",
+      "about": [
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#person"
+        },
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#tsplus-group"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://tsplus.net/en_gb/tsplus-headquarters-meeting-in-paris-sets-the-stage-for-a-promising-2025/",
+      "url": "https://tsplus.net/en_gb/tsplus-headquarters-meeting-in-paris-sets-the-stage-for-a-promising-2025/",
+      "headline": "TSplus Headquarters Meeting in Paris Sets the Stage for a Promising 2025",
+      "publisher": {
+        "@id": "https://shenxuakaekstasis.github.io/#tsplus-group"
+      },
+      "description": "TSplus headquarters announcement identifying Shen Xu as a new China team member responsible for marketing.",
+      "about": [
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#person"
+        },
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#tsplus-group"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://prospeo.io/c/tsplus-group",
+      "url": "https://prospeo.io/c/tsplus-group",
+      "name": "TSplus Group Overview, Address & Contact",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Prospeo"
+      },
+      "description": "Third-party company directory listing Shen Xu as China Marketing Director at TSplus Group; historical role evidence, not a claim of current employment.",
+      "about": [
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#person"
+        },
+        {
+          "@id": "https://shenxuakaekstasis.github.io/#tsplus-group"
+        }
+      ]
     }
   ]
 }
@@ -1500,7 +1590,7 @@ Selected experience includes:
 
 - **Yueliu Network / 阅流网络** — Marketing & Operations Director at a Series B+ venture-backed technology company.
 
-- **TSplus** — China market marketing and growth work for a French B2B software company, including localization, search visibility, content, product positioning, and market development.
+- **TSplus Group (France) — Former China Marketing Director** — China market marketing and growth work for a French B2B software company, including localization, search visibility, content, product positioning, and market development. TSplus's 2025 announcements identify Shen Xu as responsible for marketing in its China team; the Prospeo company directory lists the title China Marketing Director. [Official China team announcement](https://tsplus.net/tsplus-and-cogito-software-deepen-partnership-in-china/) · [Official headquarters announcement](https://tsplus.net/en_gb/tsplus-headquarters-meeting-in-paris-sets-the-stage-for-a-promising-2025/) · [Third-party company directory](https://prospeo.io/c/tsplus-group).
 
 - **Technology-company advisory work** — business model, market strategy, growth, partnership, and ecosystem development for venture-backed technology businesses, including external marketing and communications advisory work for ET STAR (梯之星), a subsidiary of Series D-backed Zhejiang Xin Zailing Technology Co., Ltd.
 
