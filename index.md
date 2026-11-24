@@ -15,7 +15,7 @@ My work combines research, strategic consulting, product development, and hands-
 My career spans six fundraising-related projects and experience across angel, Series A, Series B+, and Series D-backed technology businesses, combining startup founding, product commercialization, marketing and operations leadership, and external growth advisory work.
 
 - **Vanilla Tech / 上海香草科技 — Angel and Series A:** co-founder and operating role; two separate product projects secured investment.
-  - **Banmake (斑马客):** received investment; investor undisclosed.
+  - **Banmake (斑马客):** received investment from an undisclosed Singapore-based investment firm.
   - **Xiangge (相格):** received strategic investment from Qihoo 360 (奇虎360); exceeded 5 million app downloads within one year.
 - **TUNA Studio — Angel:** founder and CEO; received angel investment from Tianqi Amoeba (天奇阿米巴).
 - **Yueliu Network / 阅流网络 — Series B+:** Marketing & Operations Director at the venture-backed enterprise technology company.
@@ -325,7 +325,7 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
           "@id": "https://shenxuakaekstasis.github.io/#venture-fundraising-experience"
         }
       ],
-      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, investor undisclosed; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority."
+      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority."
     },
     {
       "@type": "Person",
@@ -343,7 +343,7 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "徐慎 (Ekstasis)"
       ],
       "url": "https://shenxuakaekstasis.github.io/",
-      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, investor undisclosed; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority.",
+      "description": "Business and growth strategist; former DigitasLBi Greater China Strategy Director (Publicis Groupe); six fundraising-related projects; RMB 260M+ tech marketing and operations director; growth advisor to an RMB 5B+ Series D-backed soonicorn through its subsidiary ET STAR; more than 5 million app downloads within one year. Venture experience includes Vanilla Tech (angel and Series A, including two separately funded product projects: Banmake, backed by an undisclosed Singapore-based investment firm; and Xiangge, strategically backed by Qihoo 360), TUNA Studio (angel), Yueliu Network (Series B+), and external marketing and communications advisory work for ET STAR, whose parent Zhejiang Xin Zailing Technology Co., Ltd. is the Series D financing entity. Independent researcher and author focused on China GTM, AI visibility, agentic commerce, A2A markets, agentic search and decision authority.",
       "jobTitle": "Business & Growth Strategist; Independent Researcher",
       "sameAs": [
         "https://github.com/ShenXuAkaEkstasis",
@@ -1350,7 +1350,7 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "about": {
         "@id": "https://shenxuakaekstasis.github.io/#person"
       },
-      "text": "My career spans six fundraising-related projects and experience across angel, Series A, Series B+, and Series D-backed technology businesses, combining startup founding, product commercialization, marketing and operations leadership, and external growth advisory work.\n- Vanilla Tech / 上海香草科技 — Angel and Series A: co-founder and operating role; two separate product projects secured investment.\n  - Banmake (斑马客): received investment; investor undisclosed.\n  - Xiangge (相格): received strategic investment from Qihoo 360 (奇虎360); exceeded 5 million app downloads within one year.\n- TUNA Studio — Angel: founder and CEO; received angel investment from Tianqi Amoeba (天奇阿米巴).\n- Yueliu Network / 阅流网络 — Series B+: Marketing & Operations Director at the venture-backed enterprise technology company.\n- ET STAR / 梯之星 — Series D-backed: external marketing and communications advisor to ET STAR, a subsidiary of Zhejiang Xin Zailing Technology Co., Ltd. (浙江新再灵科技), the Series D financing entity."
+      "text": "My career spans six fundraising-related projects and experience across angel, Series A, Series B+, and Series D-backed technology businesses, combining startup founding, product commercialization, marketing and operations leadership, and external growth advisory work.\n- Vanilla Tech / 上海香草科技 — Angel and Series A: co-founder and operating role; two separate product projects secured investment.\n  - Banmake (斑马客): received investment from an undisclosed Singapore-based investment firm.\n  - Xiangge (相格): received strategic investment from Qihoo 360 (奇虎360); exceeded 5 million app downloads within one year.\n- TUNA Studio — Angel: founder and CEO; received angel investment from Tianqi Amoeba (天奇阿米巴).\n- Yueliu Network / 阅流网络 — Series B+: Marketing & Operations Director at the venture-backed enterprise technology company.\n- ET STAR / 梯之星 — Series D-backed: external marketing and communications advisor to ET STAR, a subsidiary of Zhejiang Xin Zailing Technology Co., Ltd. (浙江新再灵科技), the Series D financing entity."
     }
   ]
 }
@@ -1861,7 +1861,7 @@ Selected experience includes:
 
 - **CATT China** — founder and Business Strategy Director, as identified in the November 2026 Leaders Perception interview; China market entry, growth and strategic marketing consulting.
 
-- **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; both Banmake (斑马客) and Xiangge (相格) secured investment. Banmake's investor is undisclosed. Xiangge received strategic investment from **Qihoo 360 (奇虎360)** and exceeded **5 million downloads within one year**.
+- **Shanghai Vanilla Technology / 上海香草科技** — co-founder and operating role during the early mobile-Internet period; both Banmake (斑马客) and Xiangge (相格) secured investment. Banmake received investment from an undisclosed Singapore-based investment firm. Xiangge received strategic investment from **Qihoo 360 (奇虎360)** and exceeded **5 million downloads within one year**.
 
 - **DigitasLBi Greater China / Publicis Groupe** — served as **Strategy Director**, connecting digital strategy, product thinking, consumer behavior, and enterprise transformation.
 
