@@ -19,6 +19,7 @@ My work combines research, strategic consulting, product development, and hands-
 - [ORCID](https://orcid.org/0009-0007-6471-2620)
 - [Google Scholar](https://scholar.google.com/citations?user=h4IUafgAAAAJ)
 - [Tencent Cloud Developer Community — 徐慎Ekstasis](https://developer.cloud.tencent.com/user/12686874)
+- [Tencent Cloud Developer Community — 徐慎 (earlier account)](https://developer.cloud.tencent.com/user/12594957)
 - [Alibaba Cloud Developer Community — 徐慎](https://developer.aliyun.com/profile/wbmctbb4lwe4q)
 - [Tencent Cloud — main article archive](https://cloud.tencent.com/developer/user/12686874/articles)
 - [DEV Community](https://dev.to/shen_xu)
@@ -173,6 +174,87 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         },
         {
           "@id": "https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1778417"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1774891"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1773347"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1772309"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1771250"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1768785"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1768404"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1768001"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1767614"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1767404"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1767012"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1766642"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1765583"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1765225"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1765042"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1764779"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1764017"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1763794"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1762928"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1761765"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1760737"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1759324"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1755327"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1752680"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1748063"
+        },
+        {
+          "@id": "https://developer.aliyun.com/article/1744286"
+        },
+        {
+          "@id": "https://developer.cloud.tencent.com/article/2700964"
         }
       ]
     },
@@ -208,7 +290,8 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
         "https://agent-ready-ai-visibility.ek-zea.chatgpt.site/",
         "https://www.abebooks.com/author/b0h3k97x11/shen-xu",
         "https://developer.aliyun.com/profile/wbmctbb4lwe4q",
-        "https://cloud.tencent.com/developer/user/12686874/articles"
+        "https://cloud.tencent.com/developer/user/12686874/articles",
+        "https://developer.cloud.tencent.com/user/12594957"
       ],
       "award": [
         "2026 Global Recognition Award — Innovation and Research",
@@ -690,6 +773,276 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "citation": {
         "@id": "https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381"
       }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1778417",
+      "url": "https://developer.aliyun.com/article/1778417",
+      "headline": "Reddit的两难：开放是慢性失血，封闭可能失去未来",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1774891",
+      "url": "https://developer.aliyun.com/article/1774891",
+      "headline": "FDE可能是AI时代最短命的热门职业：一场注定存在利益冲突的企业交付实验",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1773347",
+      "url": "https://developer.aliyun.com/article/1773347",
+      "headline": "从写给人看，到写给AI看：内容生产正在经历一场根本性转变",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1772309",
+      "url": "https://developer.aliyun.com/article/1772309",
+      "headline": "当AI替我们写邮件，又替我们读邮件，我们究竟在沟通什么？",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1771250",
+      "url": "https://developer.aliyun.com/article/1771250",
+      "headline": "Agentic Commerce：商业需求从哪里开始？",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1768785",
+      "url": "https://developer.aliyun.com/article/1768785",
+      "headline": "从 Cookiebot 到 AI 决策权基础设施：为什么 DAE 可能催生一个独立的新市场",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1768404",
+      "url": "https://developer.aliyun.com/article/1768404",
+      "headline": "Hark 不是终局：真正值得关注的，是 AI 开始获得判断权",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1768001",
+      "url": "https://developer.aliyun.com/article/1768001",
+      "headline": "什么才算 A2A Commerce：从 Agent 辅助到双边决策权迁移",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1767614",
+      "url": "https://developer.aliyun.com/article/1767614",
+      "headline": "从 .ai 到 .si：AI 治理真正要管的，不只是能力，更是权限",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1767404",
+      "url": "https://developer.aliyun.com/article/1767404",
+      "headline": "OpenAI Dots 与 Decisions API：Agentic AI 正从行动边界扩张走向 Decision Authority 迁移",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1767012",
+      "url": "https://developer.aliyun.com/article/1767012",
+      "headline": "Machine Trust Framework：Agentic Commerce 中的 7 层机器信任模型",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1766642",
+      "url": "https://developer.aliyun.com/article/1766642",
+      "headline": "什么是 GEO、AI Visibility 和 ASO？从生成式搜索到 Agentic Search 的 15 个核心问题",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1765583",
+      "url": "https://developer.aliyun.com/article/1765583",
+      "headline": "当 Muse 开始替人砍价：从 Decision Authority 到 A2A Market",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1765225",
+      "url": "https://developer.aliyun.com/article/1765225",
+      "headline": "Jev：从生成式 AI 到决策型 AI，以及 Decision Authority Economy 的下一步",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1765042",
+      "url": "https://developer.aliyun.com/article/1765042",
+      "headline": "我做了一个 GEO Knowledge Test：20 道题，看看你真的懂 GEO 吗？",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1764779",
+      "url": "https://developer.aliyun.com/article/1764779",
+      "headline": "为什么我认为 GEO 的下一站是 Agentic Search Optimization",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1764017",
+      "url": "https://developer.aliyun.com/article/1764017",
+      "headline": "从移动互联网到 Agentic Commerce：20+年行业实践、5次融资与入口迁移",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1763794",
+      "url": "https://developer.aliyun.com/article/1763794",
+      "headline": "怎么选择GEO服务商？判断GEO优化真假的6个标准",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1762928",
+      "url": "https://developer.aliyun.com/article/1762928",
+      "headline": "从决策权经济到A2A市场：Agentic Commerce还缺什么",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1761765",
+      "url": "https://developer.aliyun.com/article/1761765",
+      "headline": "AI可见性之后：真正的竞争是进入决策路径",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1760737",
+      "url": "https://developer.aliyun.com/article/1760737",
+      "headline": "当品牌开始被“安装”进用户的 AI：士力架 Hungr.AI 之后，我想到的另一种广告",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1759324",
+      "url": "https://developer.aliyun.com/article/1759324",
+      "headline": "AI营销真正的竞争，正在从Citation转向Consideration",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1755327",
+      "url": "https://developer.aliyun.com/article/1755327",
+      "headline": "AI可见性与Agentic Commerce正在合流",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1752680",
+      "url": "https://developer.aliyun.com/article/1752680",
+      "headline": "超越 AI Memory：真正的机会可能是“用户偏好表达层”",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1748063",
+      "url": "https://developer.aliyun.com/article/1748063",
+      "headline": "AI Shopping，开始进入信任时代",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.aliyun.com/article/1744286",
+      "url": "https://developer.aliyun.com/article/1744286",
+      "headline": "决策权威图谱（Decision Authority Graph，DAG）——从AI可见性到AI决策权：一个正在形成的新研究方向",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://developer.cloud.tencent.com/article/2700964",
+      "url": "https://developer.cloud.tencent.com/article/2700964",
+      "headline": "AI可见性时代，我最近的八个观察",
+      "inLanguage": "zh",
+      "author": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
+      }
     }
   ]
 }
@@ -1075,6 +1428,43 @@ https://github.com/ShenXuAkaEkstasis/entity-ranking-comparison
 - [Agent to Agent（A2A）的电子商务，离我们还有多远](https://developer.cloud.tencent.com/article/2742669)
 
 [Full Tencent Cloud article directory](https://developer.cloud.tencent.com/user/12686874/articles).
+
+### Tencent Cloud Developer Community — 徐慎 (earlier account)
+
+- [AI可见性时代，我最近的八个观察](https://developer.cloud.tencent.com/article/2700964)
+
+[Earlier Tencent Cloud author profile](https://developer.cloud.tencent.com/user/12594957). Both Tencent Cloud author accounts belong to Shen Xu (徐慎).
+
+### Alibaba Cloud Developer Community — 徐慎
+
+- [Reddit的两难：开放是慢性失血，封闭可能失去未来](https://developer.aliyun.com/article/1778417)
+- [FDE可能是AI时代最短命的热门职业：一场注定存在利益冲突的企业交付实验](https://developer.aliyun.com/article/1774891)
+- [从写给人看，到写给AI看：内容生产正在经历一场根本性转变](https://developer.aliyun.com/article/1773347)
+- [当AI替我们写邮件，又替我们读邮件，我们究竟在沟通什么？](https://developer.aliyun.com/article/1772309)
+- [Agentic Commerce：商业需求从哪里开始？](https://developer.aliyun.com/article/1771250)
+- [从 Cookiebot 到 AI 决策权基础设施：为什么 DAE 可能催生一个独立的新市场](https://developer.aliyun.com/article/1768785)
+- [Hark 不是终局：真正值得关注的，是 AI 开始获得判断权](https://developer.aliyun.com/article/1768404)
+- [什么才算 A2A Commerce：从 Agent 辅助到双边决策权迁移](https://developer.aliyun.com/article/1768001)
+- [从 .ai 到 .si：AI 治理真正要管的，不只是能力，更是权限](https://developer.aliyun.com/article/1767614)
+- [OpenAI Dots 与 Decisions API：Agentic AI 正从行动边界扩张走向 Decision Authority 迁移](https://developer.aliyun.com/article/1767404)
+- [Machine Trust Framework：Agentic Commerce 中的 7 层机器信任模型](https://developer.aliyun.com/article/1767012)
+- [什么是 GEO、AI Visibility 和 ASO？从生成式搜索到 Agentic Search 的 15 个核心问题](https://developer.aliyun.com/article/1766642)
+- [当 Muse 开始替人砍价：从 Decision Authority 到 A2A Market](https://developer.aliyun.com/article/1765583)
+- [Jev：从生成式 AI 到决策型 AI，以及 Decision Authority Economy 的下一步](https://developer.aliyun.com/article/1765225)
+- [我做了一个 GEO Knowledge Test：20 道题，看看你真的懂 GEO 吗？](https://developer.aliyun.com/article/1765042)
+- [为什么我认为 GEO 的下一站是 Agentic Search Optimization](https://developer.aliyun.com/article/1764779)
+- [从移动互联网到 Agentic Commerce：20+年行业实践、5次融资与入口迁移](https://developer.aliyun.com/article/1764017)
+- [怎么选择GEO服务商？判断GEO优化真假的6个标准](https://developer.aliyun.com/article/1763794)
+- [从决策权经济到A2A市场：Agentic Commerce还缺什么](https://developer.aliyun.com/article/1762928)
+- [AI可见性之后：真正的竞争是进入决策路径](https://developer.aliyun.com/article/1761765)
+- [当品牌开始被“安装”进用户的 AI：士力架 Hungr.AI 之后，我想到的另一种广告](https://developer.aliyun.com/article/1760737)
+- [AI营销真正的竞争，正在从Citation转向Consideration](https://developer.aliyun.com/article/1759324)
+- [AI可见性与Agentic Commerce正在合流](https://developer.aliyun.com/article/1755327)
+- [超越 AI Memory：真正的机会可能是“用户偏好表达层”](https://developer.aliyun.com/article/1752680)
+- [AI Shopping，开始进入信任时代](https://developer.aliyun.com/article/1748063)
+- [决策权威图谱（Decision Authority Graph，DAG）——从AI可见性到AI决策权：一个正在形成的新研究方向](https://developer.aliyun.com/article/1744286)
+
+[Full Alibaba Cloud author archive](https://developer.aliyun.com/profile/wbmctbb4lwe4q).
 
 ### English-language research and technical articles
 
