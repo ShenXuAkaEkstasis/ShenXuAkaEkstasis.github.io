@@ -691,6 +691,8 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "@id": "https://www.amazon.com/dp/9999353231",
       "url": "https://www.amazon.com/dp/9999353231",
       "name": "From Search to Agentic Commerce: Attribution Collapse, Agentic Search, Decision Authority, and A2A Markets",
+      "isbn": "9789999353236",
+      "sameAs": "https://www.readings.com.au/product/9789999353236/from-search-to-agentic-commerce--shen-xu--2026--9789999353236",
       "author": {
         "@id": "https://shenxuakaekstasis.github.io/#person"
       }
@@ -1776,6 +1778,9 @@ https://www.amazon.com/dp/9999353231
 
 Publisher:  
 https://elivabooks.com/en/book/book-5876480398
+
+International bookseller (Australia):  
+[Readings — From Search to Agentic Commerce](https://www.readings.com.au/product/9789999353236/from-search-to-agentic-commerce--shen-xu--2026--9789999353236)
 
 ### Decision Authority Economy
 
