@@ -2,7 +2,7 @@
 
 This permanent index preserves original media references that document Shen Xu's earlier technology, startup, industry speaking and product-ecosystem experience. **Archived for future CV, biography and speaking-profile use.**
 
-Last updated: 2026-11-10.
+Last updated: 2026-11-26.
 
 | Year | Source | What it documents | Original URL | Verification notes |
 |---|---|---|---|---|
@@ -19,6 +19,10 @@ These are **self-authored publication profiles**, separate from third-party medi
 |---|---|---|---|---|
 | Alibaba Cloud Developer Community (阿里云开发者社区) | 徐慎 (Shen Xu) | Author page covering AI Visibility, Agentic Search Optimization, Decision Authority and A2A Commerce; the profile displays 25 published articles at the time of review. | https://developer.aliyun.com/profile/wbmctbb4lwe4q | Verified 2026-11-10 against the author page and its listed original articles. |
 | Tencent Cloud Developer Community (腾讯云开发者社区) | 徐慎Ekstasis (Shen Xu) | Author profile and publication archive on Agentic Commerce, A2A Markets, AI Visibility, AI-mediated decision authority and related strategy topics. | https://cloud.tencent.com/developer/user/12686874/articles | Verified 2026-11-10. Distinct from earlier Tencent Cloud account 12594957 used for a single July article. |
+
+## Independent Editorial Coverage (2026)
+
+- **November 26, 2026 | South China Morning Post (SCMP)** — [As US and China battle for AI dominance, small fry figure out what works](https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works). In Focus feature by Mark Magnier quoting Shen Xu as an independent AI strategist on US and Chinese AI models, platform integration, information-source differences and operating costs. Independent editorial coverage; not a validation of his research frameworks.
 
 ## Recent Media Coverage & Client-Project Mentions (2026)
 
