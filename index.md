@@ -416,6 +416,9 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       ],
       "subjectOf": [
         {
+          "@id": "https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works"
+        },
+        {
           "@id": "https://tsplus.net/tsplus-and-cogito-software-deepen-partnership-in-china/"
         },
         {
@@ -791,6 +794,25 @@ Historical name evidence: [Alibaba Cloud Developer Community — EK (Ekstasis)](
       "publisher": {
         "@type": "Organization",
         "name": "Databricks Community"
+      }
+    },
+    {
+      "@type": "NewsArticle",
+      "@id": "https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works",
+      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works",
+      "headline": "As US and China battle for AI dominance, small fry figure out what works",
+      "datePublished": "2026-11-26T06:00:00+08:00",
+      "inLanguage": "en",
+      "author": {
+        "@type": "Person",
+        "name": "Mark Magnier"
+      },
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "South China Morning Post"
+      },
+      "mentions": {
+        "@id": "https://shenxuakaekstasis.github.io/#person"
       }
     },
     {
@@ -1941,6 +1963,8 @@ Community articles are self-authored technical publications, not peer-reviewed v
 **October 2026 — Databricks community experiment.** Following my article on portable agent memory and decision boundaries, Databricks MVP gnakan [responded publicly](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/173115#M1825) and published an [independent Unity Catalog experiment](https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b) examining stale-memory actions and current authorization checks. The follow-up addresses a specific distinction between historical memory and present execution authority; it does not validate the complete DAE, ASO or A2A frameworks or imply corporate endorsement. [Research lineage and scope](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture/blob/main/independent-research.md).
 
 ## Media Interviews & Industry Coverage
+
+- **November 26, 2026 | South China Morning Post (SCMP)** — [As US and China battle for AI dominance, small fry figure out what works](https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works). In Focus feature by Mark Magnier quoting Shen Xu as an independent AI strategist on US and Chinese AI models, platform integration, information-source differences and operating costs. Independent editorial coverage; not a validation of his research frameworks.
 
 - **November 5, 2026 | Leaders Perception** — [How Shen Xu Adapted CATT China as Marketing Demands Changed](https://leadersperception.com/how-shen-xu-adapted-catt-china-as-marketing-demands-changed/). Published interview about CATT China, client trust, changing marketing demands and business adaptation.
 - **AI CERTs** — [Shen Xu’s Global Recognition Award Highlights Why AI Training Is Essential for the Future of Intelligent Decision-Making](https://www.aicerts.ai/news/authorized-training-partner/ai-training-decision-making-shen-xu-ai-systems/). Industry coverage in its training-partner news section; the publisher discloses possible AI-assisted content. Not an independent research review or endorsement.
